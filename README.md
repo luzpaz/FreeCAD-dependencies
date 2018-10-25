@@ -2,6 +2,7 @@
 qt5  
 qt5-base  
 shiboken2  
+pyside2  
 opencascade  
 oce  
 opencascade-oce  
