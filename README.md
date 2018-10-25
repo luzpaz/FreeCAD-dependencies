@@ -1,4 +1,9 @@
-## List of all the package names tracked by repology:  
+## Tracking FreeCAD and Dependencies
+| FreeCAD | 
+| :-----: |
+| [![Packaging status](https://repology.org/badge/vertical-allrepos/freecad.svg)](https://repology.org/metapackage/freecad/versions) |
+
+## Repology package names  
 qt5  
 qt5-base  
 shiboken2  
@@ -34,6 +39,7 @@ gdal
 python:gdal  
 gdal-grass  
 
+## Dependencies 
 | qt5 | qt5-base | shiboken2 | pyside2 |
 | :-: | :------: | :-------: | :-----: |
 |[![Packaging status](https://repology.org/badge/vertical-allrepos/qt5.svg)](https://repology.org/metapackage/qt5/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/qt5-base.svg)](https://repology.org/metapackage/qt5-base/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/shiboken2.svg)](https://repology.org/metapackage/shiboken2/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/pyside2.svg)](https://repology.org/metapackage/pyside2/versions) |
