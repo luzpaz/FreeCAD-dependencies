@@ -1,4 +1,6 @@
 ## Current FreeCAD Deps for Arch ##
+__Note:__  
+*some of the entries may be empty due to the packages being either named differently on certain distro (qt5-base rather than qt5) or that the package exists in the Arch AUR*
 
 | qt5 | 
 | :-: |
