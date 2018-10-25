@@ -1,6 +1,41 @@
-| qt5 | qt5-base | shiboken2 |
-| :-: | :------: | :-------: |
-|[![Packaging status](https://repology.org/badge/vertical-allrepos/qt5.svg)](https://repology.org/metapackage/qt5/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/qt5-base.svg)](https://repology.org/metapackage/qt5-base/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/shiboken2.svg)](https://repology.org/metapackage/shiboken2/versions) |
+## List of all the package names tracked by repology:  
+qt5  
+qt5-base  
+shiboken2  
+opencascade  
+oce  
+opencascade-oce  
+occt  
+salome-smesh  
+smesh  
+coin  
+coin3  
+coin3d  
+boost  
+eigen3  
+pivy  
+xerces-c  
+cmake  
+zlib  
+graphviz  
+graphviz-addons  
+python:scipy  
+scipy  
+vtk  
+python:numpy  
+calculix  
+calculix-ccx  
+elmerfem  
+fenics  
+ccache  
+opencv  
+gdal  
+python:gdal  
+gdal-grass  
+
+| qt5 | qt5-base | shiboken2 | pyside2 |
+| :-: | :------: | :-------: | :-----: |
+|[![Packaging status](https://repology.org/badge/vertical-allrepos/qt5.svg)](https://repology.org/metapackage/qt5/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/qt5-base.svg)](https://repology.org/metapackage/qt5-base/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/shiboken2.svg)](https://repology.org/metapackage/shiboken2/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/pyside2.svg)](https://repology.org/metapackage/pyside2/versions) |
 
 | opencascade | oce | opencascade-oce | occt |
 | :---------: | :-: | :-------------: | :--: |
@@ -18,34 +53,22 @@
 | :---: | :---: | :--: | :------: |
 |[![Packaging status](https://repology.org/badge/vertical-allrepos/boost.svg)](https://repology.org/metapackage/boost/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/eigen3.svg)](https://repology.org/metapackage/eigen3/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/pivy.svg)](https://repology.org/metapackage/pivy/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/xerces-c.svg)](https://repology.org/metapackage/xerces-c/versions) |
 
-| cmake | zlib | graphviz | graphviz |
-| :---: | :--: | :------: | :------: |
+| cmake | zlib | graphviz | graphviz-addons |
+| :---: | :--: | :------: | :-------------: |
 | [![Packaging status](https://repology.org/badge/vertical-allrepos/cmake.svg)](https://repology.org/metapackage/cmake/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/zlib.svg)](https://repology.org/metapackage/zlib/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/graphviz.svg)](https://repology.org/metapackage/graphviz/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/graphviz.svg)](https://repology.org/metapackage/graphviz-addons/versions) |
 
+| calculix | calculix-ccx | /elmerfem | fenics |
+| :------: | :----------: | :-------: | :----: |
+[![Packaging status](https://repology.org/badge/vertical-allrepos/calculix.svg)](https://repology.org/metapackage/calculix/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/calculix-ccx.svg)](https://repology.org/metapackage/calculix-ccx/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/elmerfem.svg)](https://repology.org/metapackage/elmerfem/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/fenics.svg)](https://repology.org/metapackage/fenics/versions) |
 
-[![Packaging status](https://repology.org/badge/vertical-allrepos/python:scipy.svg)](https://repology.org/metapackage/python:scipy/versions)
-[![Packaging status](https://repology.org/badge/vertical-allrepos/scipy.svg)](https://repology.org/metapackage/scipy/versions)
+| python:scipy | scipy | vtk | python:numpy | opencv |
+| :----------: | :---: | :-: | :----------: | :----: |
+|[![Packaging status](https://repology.org/badge/vertical-allrepos/python:scipy.svg)](https://repology.org/metapackage/python:scipy/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/scipy.svg)](https://repology.org/metapackage/scipy/versions) |  [![Packaging status](https://repology.org/badge/vertical-allrepos/vtk.svg)](https://repology.org/metapackage/vtk/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/python:numpy.svg)](https://repology.org/metapackage/python:numpy/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/opencv.svg)](https://repology.org/metapackage/opencv/versions) |
 
-[![Packaging status](https://repology.org/badge/vertical-allrepos/vtk.svg)](https://repology.org/metapackage/vtk/versions)
-[![Packaging status](https://repology.org/badge/vertical-allrepos/python:numpy.svg)](https://repology.org/metapackage/python:numpy/versions)
+| gdal | python:gdal | gdal-grass |
+| :--: | :---------: | :--------: |
+| [![Packaging status](https://repology.org/badge/vertical-allrepos/gdal.svg)](https://repology.org/metapackage/gdal/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/python:gdal.svg)](https://repology.org/metapackage/python:gdal/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/gdal-grass.svg)](https://repology.org/metapackage/gdal-grass/versions) |
 
-
-[![Packaging status](https://repology.org/badge/vertical-allrepos/calculix.svg)](https://repology.org/metapackage/calculix/versions)
-[![Packaging status](https://repology.org/badge/vertical-allrepos/calculix-ccx.svg)](https://repology.org/metapackage/calculix-ccx/versions)
-[![Packaging status](https://repology.org/badge/vertical-allrepos/elmerfem.svg)](https://repology.org/metapackage/elmerfem/versions)
-[![Packaging status](https://repology.org/badge/vertical-allrepos/fenics.svg)](https://repology.org/metapackage/fenics/versions)
-
-
-
-
-
-[![Packaging status](https://repology.org/badge/vertical-allrepos/ccache.svg)](https://repology.org/metapackage/ccache/versions)
-
-
-[![Packaging status](https://repology.org/badge/vertical-allrepos/opencv.svg)](https://repology.org/metapackage/opencv/versions)
-
-[![Packaging status](https://repology.org/badge/vertical-allrepos/gdal.svg)](https://repology.org/metapackage/gdal/versions)
-[![Packaging status](https://repology.org/badge/vertical-allrepos/python:gdal.svg)](https://repology.org/metapackage/python:gdal/versions)
-[![Packaging status](https://repology.org/badge/vertical-allrepos/gdal-grass.svg)](https://repology.org/metapackage/gdal-grass/versions)
-
-
+| ccache |
+| :----: |
+|[![Packaging status](https://repology.org/badge/vertical-allrepos/ccache.svg)](https://repology.org/metapackage/ccache/versions) |
