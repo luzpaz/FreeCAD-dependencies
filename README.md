@@ -60,6 +60,8 @@
       libkdtree++<br/>
       oda-file-converter<br/>
       teighafileconverter<br/>
+      luxcorerender<br/>
+      luxrender<br/>
     </td>
   </tr>
 </table>
@@ -120,6 +122,8 @@ zipios++
 libkdtree++  
 oda-file-converter  
 teighafileconverter  
+luxcorerender  
+luxrender
 ```
 
 </details>
@@ -411,6 +415,8 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <th>oda-file-converter</th>
     <th>teighafileconverter</th>
+    <th>luxcorerender</th>
+    <th>luxrender</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/oda-file-converter/versions">
@@ -419,6 +425,13 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
         <td valign="top"><a href="https://repology.org/metapackage/teighafileconverter/versions">
       <img src="https://repology.org/badge/vertical-allrepos/teighafileconverter.svg" alt="Packaging status" align="right"></a>
     </td>
-
+    </td>
+        <td valign="top"><a href="https://repology.org/metapackage/luxcorerender/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/luxcorerender.svg" alt="Packaging status" align="right"></a>
+    </td>
+    </td>
+        <td valign="top"><a href="https://repology.org/metapackage/luxrender/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/luxrender.svg" alt="Packaging status" align="right"></a>
+    </td>
   </tr>
 </table>
