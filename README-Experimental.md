@@ -56,16 +56,16 @@ gdal-grass
     <th>pyside2</th>
   </tr>
   <tr>
-    <td vlign="top"><a href="https://repology.org/metapackage/qt5/versions">
+    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions">
       <img src="https://repology.org/badge/vertical-allrepos/qt5.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td vlign="top"><a href="https://repology.org/metapackage/qt5-base/versions">
+    <td valign="top"><a href="https://repology.org/metapackage/qt5-base/versions">
       <img src="https://repology.org/badge/vertical-allrepos/qt5-base.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td vlign="top"><a href="https://repology.org/metapackage/shiboken2/versions">
+    <td valign="top"><a href="https://repology.org/metapackage/shiboken2/versions">
       <img src="https://repology.org/badge/vertical-allrepos/shiboken2.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td vlign="top"><a href="https://repology.org/metapackage/pyside2/versions">
+    <td valign="top"><a href="https://repology.org/metapackage/pyside2/versions">
       <img src="https://repology.org/badge/vertical-allrepos/pyside2.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
