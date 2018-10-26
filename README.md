@@ -4,6 +4,7 @@
 | [![Packaging status](https://repology.org/badge/vertical-allrepos/freecad.svg)](https://repology.org/metapackage/freecad/versions) |
 
 ## Repology package names  
+```
 qt5  
 qt5-base  
 shiboken2  
@@ -28,6 +29,7 @@ graphviz-addons
 python:scipy  
 scipy  
 vtk  
+netgen
 python:numpy  
 calculix  
 calculix-ccx  
@@ -38,6 +40,7 @@ opencv
 gdal  
 python:gdal  
 gdal-grass  
+```
 
 ## Dependencies 
 | qt5 | qt5-base | shiboken2 | pyside2 |
@@ -48,9 +51,9 @@ gdal-grass
 | :---------: | :-: | :-------------: | :--: |
 |[![Packaging status](https://repology.org/badge/vertical-allrepos/opencascade.svg)](https://repology.org/metapackage/opencascade/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/oce.svg)](https://repology.org/metapackage/oce/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/opencascade-oce.svg)](https://repology.org/metapackage/opencascade-oce/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/occt.svg)](https://repology.org/metapackage/occt/versions)
 
-| salome-smesh | smesh |
-| :----------: | :---: |
-|[![Packaging status](https://repology.org/badge/vertical-allrepos/salome-smesh.svg)](https://repology.org/metapackage/salome-smesh/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/smesh.svg)](https://repology.org/metapackage/smesh/versions) |
+| salome-smesh | smesh | netgen |
+| :----------: | :---: | :----: |
+|[![Packaging status](https://repology.org/badge/vertical-allrepos/salome-smesh.svg)](https://repology.org/metapackage/salome-smesh/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/smesh.svg)](https://repology.org/metapackage/smesh/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/netgen.svg)](https://repology.org/metapackage/netgen/versions) |
 
 | coin | coin3 | coin3d |
 | :--: | :---: | :----: |
@@ -64,8 +67,8 @@ gdal-grass
 | :---: | :--: | :------: | :-------------: |
 | [![Packaging status](https://repology.org/badge/vertical-allrepos/cmake.svg)](https://repology.org/metapackage/cmake/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/zlib.svg)](https://repology.org/metapackage/zlib/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/graphviz.svg)](https://repology.org/metapackage/graphviz/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/graphviz.svg)](https://repology.org/metapackage/graphviz-addons/versions) |
 
-| calculix | calculix-ccx | /elmerfem | fenics |
-| :------: | :----------: | :-------: | :----: |
+| calculix | calculix-ccx | elmerfem | fenics |
+| :------: | :----------: | :------: | :----: |
 [![Packaging status](https://repology.org/badge/vertical-allrepos/calculix.svg)](https://repology.org/metapackage/calculix/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/calculix-ccx.svg)](https://repology.org/metapackage/calculix-ccx/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/elmerfem.svg)](https://repology.org/metapackage/elmerfem/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/fenics.svg)](https://repology.org/metapackage/fenics/versions) |
 
 | python:scipy | scipy | vtk | python:numpy | opencv |
