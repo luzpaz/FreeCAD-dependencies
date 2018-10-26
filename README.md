@@ -19,6 +19,10 @@
       occt<br/>
       salome-smesh<br/>
       smesh<br/>
+      med<br/>
+      med-fichier<br/>
+      med-salome<br/>
+      medfile<br/>
       coin<br/>
       coin3<br/>
       coin3d<br/>
@@ -63,6 +67,10 @@ opencascade-oce
 occt  
 salome-smesh  
 smesh  
+med  
+med-fichier  
+med-salome  
+medfile  
 coin  
 coin3  
 coin3d  
@@ -156,6 +164,29 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/netgen/versions">
       <img src="https://repology.org/badge/vertical-allrepos/netgen.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>med</th>
+    <th>med-fichier</th>
+    <th>med-salome</th>
+    <th>medfile</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/med/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/med.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/med-fichier/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/med-fichier.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/med-salome/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/med-salome.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/medfile/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/medfile.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
