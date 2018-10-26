@@ -48,6 +48,16 @@
       gdal<br/>
       python:gdal<br/>
       gdal-grass<br/>
+      orcos-kdl<br/>
+      matplotlib<br/>
+      python:matplotlib<br/>
+      hdf5<br/>
+      freetype<br/>
+      swig<br/>
+      libspnav<br/>
+      spnavcfg<br/>
+      zipios++<br/>
+      libkdtree++<br/>
     </td>
   </tr>
 </table>
@@ -96,6 +106,16 @@ opencv
 gdal  
 python:gdal  
 gdal-grass  
+orcos-kdl  
+matplotlib  
+python:matplotlib  
+hdf5  
+freetype
+swig  
+libspnav  
+spnavcfg  
+zipios++  
+libkdtree++  
 ```
 
 </details>
@@ -256,6 +276,60 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/ccache/versions">
       <img src="https://repology.org/badge/vertical-allrepos/ccache.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>orocos-kdl</th>
+    <th>matplotlib</th>
+    <th>python:matplotlib</th>
+    <th>hdf5</th>
+    <th>freetype</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/orocos-kdl/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/orocos-kdl.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/matplotlib/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/matplotlib.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/python:matplotlib/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/python:matplotlib.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/hdf5/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/hdf5.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/freetype/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/freetype.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>swig</th>
+    <th>libspnav</th>
+    <th>spnavcfg</th>
+    <th>zipios++</th>
+    <th>libkdtree++</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/swig/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/swig.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/libspnav/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/libspnav.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/spnavcfg/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/spnavcfg.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/zipios++/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/zipios++.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/libkdtree++/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/libkdtree++.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
