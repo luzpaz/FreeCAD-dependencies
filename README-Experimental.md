@@ -135,7 +135,7 @@ gdal-grass
 <table>
   <tr>
     <th>boost</th>
-    <th>eigen</th>
+    <th>eigen3</th>
     <th>pivy</th>
     <th>xerces-c</th>
   </tr>
@@ -143,8 +143,8 @@ gdal-grass
     <td valign="top"><a href="https://repology.org/metapackage/boost/versions">
       <img src="https://repology.org/badge/vertical-allrepos/boost.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/eigen/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/eigen.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/eigen3/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/eigen3.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/pivy/versions">
       <img src="https://repology.org/badge/vertical-allrepos/pivy.svg" alt="Packaging status" align="right"></a>
