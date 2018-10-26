@@ -48,6 +48,33 @@ gdal-grass
 ```
 
 ## Dependencies
+<table>
+  <th>qt5</th>
+    <tr>
+      <td vlign="top"><a href="https://repology.org/metapackage/qt5/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/qt5.svg" alt="Packaging status" align="right"></a>
+      </td>
+    </tr>
+    <th>qt5-base</th>
+      <tr>
+        <td vlign="top"><a href="https://repology.org/metapackage/qt5-base/versions">
+          <img src="https://repology.org/badge/vertical-allrepos/qt5-base.svg" alt="Packaging status" align="right"></a>
+        </td>
+      </tr>
+    <th>shiboken2</th>
+      <tr>
+        <td vlign="top"><a href="https://repology.org/metapackage/shiboken2/versions">
+          <img src="https://repology.org/badge/vertical-allrepos/shiboken2.svg" alt="Packaging status" align="right"></a>
+        </td>
+      </tr>
+      <th>pyside2</th>
+        <tr>
+          <td vlign="top"><a href="https://repology.org/metapackage/pyside2/versions">
+            <img src="https://repology.org/badge/vertical-allrepos/pyside2.svg" alt="Packaging status" align="right"></a>
+          </td>
+        </tr>
+</table>
+
 | qt5 | qt5-base | shiboken2 | pyside2 |
 | :-: | :------: | :-------: | :-----: |
 |[![Packaging status](https://repology.org/badge/vertical-allrepos/qt5.svg)](https://repology.org/metapackage/qt5/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/qt5-base.svg)](https://repology.org/metapackage/qt5-base/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/shiboken2.svg)](https://repology.org/metapackage/shiboken2/versions) | [![Packaging status](https://repology.org/badge/vertical-allrepos/pyside2.svg)](https://repology.org/metapackage/pyside2/versions) |
