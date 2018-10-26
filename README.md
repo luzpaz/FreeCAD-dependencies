@@ -43,6 +43,7 @@
       calculix-ccx<br/>
       elmerfem<br/>
       fenics<br/>
+      openfoam<br/>
       ccache<br/>
       opencv<br/>
       gdal<br/>
@@ -105,6 +106,7 @@ calculix
 calculix-ccx  
 elmerfem  
 fenics  
+openfoam  
 ccache  
 opencv  
 gdal  
@@ -348,6 +350,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <th>calculix-ccx</th>
     <th>elmerfem</th>
     <th>fenics</th>
+    <th>openfoam</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/calculix/versions">
@@ -361,6 +364,9 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/fenics/versions">
       <img src="https://repology.org/badge/vertical-allrepos/fenics.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/openfoam/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/openfoam.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
