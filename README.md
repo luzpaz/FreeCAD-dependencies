@@ -58,6 +58,8 @@
       spnavcfg<br/>
       zipios++<br/>
       libkdtree++<br/>
+      oda-file-converter<br/>
+      teighafileconverter<br/>
     </td>
   </tr>
 </table>
@@ -116,6 +118,8 @@ libspnav
 spnavcfg  
 zipios++  
 libkdtree++  
+oda-file-converter  
+teighafileconverter  
 ```
 
 </details>
@@ -400,5 +404,21 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/gdal-grass/versions">
       <img src="https://repology.org/badge/vertical-allrepos/gdal-grass.svg" alt="Packaging status" align="right"></a>
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>oda-file-converter</th>
+    <th>teighafileconverter</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/oda-file-converter/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/oda-file-converter.svg" alt="Packaging status" align="right"></a>
+    </td>
+        <td valign="top"><a href="https://repology.org/metapackage/teighafileconverter/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/teighafileconverter.svg" alt="Packaging status" align="right"></a>
+    </td>
+
   </tr>
 </table>
