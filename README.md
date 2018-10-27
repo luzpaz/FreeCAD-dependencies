@@ -2,7 +2,8 @@
 <table>
   <tr>
     <th>FreeCAD</th>
-    <th>Dependencies</th>  
+    <th>Core Dependencies</th>  
+    <th>FEM Dependencies</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/freecad/versions">
@@ -39,11 +40,6 @@
       vtk<br/>
       netgen<br/>
       python:numpy<br/>
-      calculix<br/>
-      calculix-ccx<br/>
-      elmerfem<br/>
-      fenics<br/>
-      openfoam<br/>
       ccache<br/>
       opencv<br/>
       gdal<br/>
@@ -63,6 +59,13 @@
       teighafileconverter<br/>
       luxcorerender<br/>
       luxrender<br/>
+    </td>
+    <td align="left" valign="top">
+      calculix<br/>
+      calculix-ccx<br/>
+      elmerfem<br/>
+      fenics<br/>
+      openfoam<br/>
     </td>
   </tr>
 </table>
