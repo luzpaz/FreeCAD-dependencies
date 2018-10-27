@@ -171,6 +171,8 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <th>oce</th>
     <th>opencascade-oce</th>
     <th>occt</th>
+    <th>salome-smesh</th>
+    <th>smesh</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/opencascade/versions">
@@ -185,24 +187,11 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/occt/versions">
       <img src="https://repology.org/badge/vertical-allrepos/occt.svg" alt="Packaging status" align="right"></a>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>salome-smesh</th>
-    <th>smesh</th>
-    <th>netgen</th>
-  </tr>
-  <tr>
     <td valign="top"><a href="https://repology.org/metapackage/salome-smesh/versions">
       <img src="https://repology.org/badge/vertical-allrepos/salome-smesh.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/smesh/versions">
       <img src="https://repology.org/badge/vertical-allrepos/smesh.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/netgen/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/netgen.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
@@ -301,6 +290,21 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 
 <table>
   <tr>
+    <th>netgen</th>
+    <th>vtk</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/netgen/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/netgen.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/vtk/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/vtk.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <th>orocos-kdl</th>
     <th>matplotlib</th>
     <th>python:matplotlib</th>
@@ -384,7 +388,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <th>python:scipy</th>
     <th>scipy</th>
-    <th>vtk</th>
     <th>python:numpy</th>
     <th>opencv</th>
   </tr>
@@ -394,9 +397,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/scipy/versions">
       <img src="https://repology.org/badge/vertical-allrepos/scipy.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/vtk/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/vtk.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/python:numpy/versions">
       <img src="https://repology.org/badge/vertical-allrepos/python:numpy.svg" alt="Packaging status" align="right"></a>
