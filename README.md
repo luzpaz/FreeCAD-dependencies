@@ -60,6 +60,11 @@
       teighafileconverter<br/>
       luxcorerender<br/>
       luxrender<br/>
+      povray<br/>
+      opencamlib<br/>
+      python:pycollada<br/>
+      python:collada<br/>
+      pycollada<br/>
     </td>
     <td align="left" valign="top">
       calculix<br/>
@@ -130,7 +135,12 @@ libkdtree++
 oda-file-converter  
 teighafileconverter  
 luxcorerender  
-luxrender
+luxrender  
+povray  
+opencamlib  
+python:pycollada  
+python:collada  
+pycollada  
 ```
 
 </details>
@@ -432,6 +442,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <th>teighafileconverter</th>
     <th>luxcorerender</th>
     <th>luxrender</th>
+    <th>povray</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/oda-file-converter/versions">
@@ -447,6 +458,32 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
         <td valign="top"><a href="https://repology.org/metapackage/luxrender/versions">
       <img src="https://repology.org/badge/vertical-allrepos/luxrender.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/povray/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/povray.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>opencamlib</th>
+    <th>python:pycollada</th>
+    <th>python:collada</th>
+    <th>pycollada</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/opencamlib/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/opencamlib.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/python:pycollada/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/python:pycollada.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/python:collada/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/python:collada.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/pycollada/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/pycollada.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
