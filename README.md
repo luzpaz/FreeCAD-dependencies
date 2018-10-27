@@ -66,6 +66,8 @@
       python:collada<br/>
       pycollada<br/>
       ifcopenshell<br/>
+      gts<br/>
+      proj<br/>
     </td>
     <td align="left" valign="top">
       calculix<br/>
@@ -74,6 +76,7 @@
       fenics<br/>
       openfoam<br/>
       gmsh<br/>
+      z88<br/>
     </td>
   </tr>
 </table>
@@ -83,7 +86,7 @@
   <summary>Expand this block to view the package names in one long list</summary>
 
 ```
-python3
+python3  
 qt5  
 qt5-base  
 shiboken2  
@@ -119,6 +122,7 @@ calculix-ccx
 elmerfem  
 fenics  
 openfoam  
+z88  
 gmsh  
 ccache  
 opencv  
@@ -145,6 +149,8 @@ python:pycollada
 python:collada  
 pycollada  
 ifcopenshell  
+gts  
+proj  
 ```
 
 </details>
@@ -382,6 +388,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <th>elmerfem</th>
     <th>fenics</th>
     <th>openfoam</th>
+    <th>z88</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/calculix/versions">
@@ -398,6 +405,9 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/openfoam/versions">
       <img src="https://repology.org/badge/vertical-allrepos/openfoam.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/z88/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/z88.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
@@ -479,7 +489,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <th>python:pycollada</th>
     <th>python:collada</th>
     <th>pycollada</th>
-    <th>ifcopenshell</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/opencamlib/versions">
@@ -493,6 +502,22 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/pycollada/versions">
       <img src="https://repology.org/badge/vertical-allrepos/pycollada.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>proj</th>
+    <th>gts</th>
+    <th>ifcopenshell</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/proj/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/proj.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gts/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/gts.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/ifcopenshell/versions">
       <img src="https://repology.org/badge/vertical-allrepos/ifcopenshell.svg" alt="Packaging status" align="right"></a>
