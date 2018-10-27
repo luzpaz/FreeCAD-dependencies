@@ -65,6 +65,7 @@
       python:pycollada<br/>
       python:collada<br/>
       pycollada<br/>
+      ifcopenshell<br/>
     </td>
     <td align="left" valign="top">
       calculix<br/>
@@ -72,6 +73,7 @@
       elmerfem<br/>
       fenics<br/>
       openfoam<br/>
+      gmsh<br/>
     </td>
   </tr>
 </table>
@@ -117,6 +119,7 @@ calculix-ccx
 elmerfem  
 fenics  
 openfoam  
+gmsh  
 ccache  
 opencv  
 gdal  
@@ -141,6 +144,7 @@ opencamlib
 python:pycollada  
 python:collada  
 pycollada  
+ifcopenshell  
 ```
 
 </details>
@@ -302,6 +306,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <th>netgen</th>
     <th>vtk</th>
+    <th>gmsh</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/netgen/versions">
@@ -309,6 +314,9 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/vtk/versions">
       <img src="https://repology.org/badge/vertical-allrepos/vtk.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gmsh/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/gmsh.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
@@ -471,6 +479,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <th>python:pycollada</th>
     <th>python:collada</th>
     <th>pycollada</th>
+    <th>ifcopenshell</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/opencamlib/versions">
@@ -484,6 +493,9 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/pycollada/versions">
       <img src="https://repology.org/badge/vertical-allrepos/pycollada.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/ifcopenshell/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/ifcopenshell.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
