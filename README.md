@@ -2,7 +2,7 @@
 <table>
   <tr>
     <th>FreeCAD</th>
-    <th>Core Dependencies</th>  
+    <th>Dependencies</th>  
     <th>FEM Dependencies</th>
   </tr>
   <tr>
@@ -10,7 +10,9 @@
         <img src="https://repology.org/badge/vertical-allrepos/freecad.svg" alt="Packaging status" align="right"></a>
     </td>
     <td align="left" valign="top">
-      qt5<br />
+      cmake<br/>
+      python3<br/>
+      qt5<br/>
       qt5-base<br/>
       shiboken2<br/>
       pyside2<br/>
@@ -31,7 +33,6 @@
       eigen3<br/>
       pivy<br/>
       xerces-c<br/>
-      cmake<br/>
       zlib<br/>
       graphviz<br/>
       graphviz-addons<br/>
@@ -72,9 +73,10 @@
 
 ## Repology package names  
 <details>
-  <summary>Expand this block to view the package names</summary>
+  <summary>Expand this block to view the package names in one long list</summary>
 
 ```
+python3
 qt5  
 qt5-base  
 shiboken2  
@@ -138,12 +140,16 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 
 <table>
   <tr>
+    <th>python3</th>
     <th>qt5</th>
     <th>qt5-base</th>
     <th>shiboken2</th>
     <th>pyside2</th>
   </tr>
   <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/python3/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/python3.svg" alt="Packaging status" align="right"></a>
+    </td>
     <td valign="top"><a href="https://repology.org/metapackage/qt5/versions">
       <img src="https://repology.org/badge/vertical-allrepos/qt5.svg" alt="Packaging status" align="right"></a>
     </td>
