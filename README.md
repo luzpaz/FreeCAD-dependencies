@@ -17,9 +17,7 @@
       shiboken2<br/>
       pyside2<br/>
       opencascade<br/>
-      oce<br/>
       opencascade-oce<br/>
-      occt<br/>
       salome-smesh<br/>
       smesh<br/>
       med<br/>
@@ -89,9 +87,7 @@ qt5-base
 shiboken2  
 pyside2  
 opencascade  
-oce  
 opencascade-oce  
-occt  
 salome-smesh  
 smesh  
 med  
@@ -182,9 +178,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <th>opencascade</th>
-    <th>oce</th>
     <th>opencascade-oce</th>
-    <th>occt</th>
     <th>salome-smesh</th>
     <th>smesh</th>
   </tr>
@@ -192,14 +186,8 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/opencascade/versions">
       <img src="https://repology.org/badge/vertical-allrepos/opencascade.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/oce/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/oce.svg" alt="Packaging status" align="right"></a>
-    </td>
     <td valign="top"><a href="https://repology.org/metapackage/opencascade-oce/versions">
       <img src="https://repology.org/badge/vertical-allrepos/opencascade-oce.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/occt/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/occt.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/salome-smesh/versions">
       <img src="https://repology.org/badge/vertical-allrepos/salome-smesh.svg" alt="Packaging status" align="right"></a>
