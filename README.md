@@ -26,8 +26,6 @@
       med-fichier<br/>
       med-salome<br/>
       medfile<br/>
-      coin<br/>
-      coin3<br/>
       coin3d<br/>
       boost<br/>
       eigen3<br/>
@@ -100,8 +98,6 @@ med
 med-fichier  
 med-salome  
 medfile  
-coin  
-coin3  
 coin3d  
 boost  
 eigen3  
@@ -239,17 +235,9 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 
 <table>
   <tr>
-    <th>coin</th>
-    <th>coin3</th>
     <th>coin3d</th>
   </tr>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/coin/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/coin.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/coin3/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/coin3.svg" alt="Packaging status" align="right"></a>
-    </td>
     <td valign="top"><a href="https://repology.org/metapackage/coin3d/versions">
       <img src="https://repology.org/badge/vertical-allrepos/coin3d.svg" alt="Packaging status" align="right"></a>
     </td>
