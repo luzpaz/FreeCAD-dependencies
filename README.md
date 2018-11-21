@@ -35,7 +35,6 @@
       xerces-c<br/>
       zlib<br/>
       graphviz<br/>
-      graphviz-addons<br/>
       python:scipy<br/>
       scipy<br/>
       vtk<br/>
@@ -111,7 +110,6 @@ xerces-c
 cmake  
 zlib  
 graphviz  
-graphviz-addons  
 python:scipy  
 scipy  
 vtk  
@@ -285,7 +283,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <th>zlib</th>
     <th>graphviz</th>
-    <th>graphviz-addons</th>
     <th>cmake</th>
     <th>ccache</th>
   </tr>
@@ -295,9 +292,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/graphviz/versions">
       <img src="https://repology.org/badge/vertical-allrepos/graphviz.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/graphviz-addons/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/graphviz-addons.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/cmake/versions">
       <img src="https://repology.org/badge/vertical-allrepos/cmake.svg" alt="Packaging status" align="right"></a>
