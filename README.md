@@ -217,6 +217,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <th>boost</th>
     <th>coin3d</th>
+    <th>pivy</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/boost/versions">
@@ -224,6 +225,9 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/coin3d/versions">
       <img src="https://repology.org/badge/vertical-allrepos/coin3d.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/pivy/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/pivy.svg" alt="Packaging status" align="right"></a>
+    </td>
     </td>
   </tr>
 </table>
@@ -231,18 +235,18 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <th>eigen3</th>
-    <th>pivy</th>
     <th>xerces-c</th>
+    <th>graphviz</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/eigen3/versions">
       <img src="https://repology.org/badge/vertical-allrepos/eigen3.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/pivy/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/pivy.svg" alt="Packaging status" align="right"></a>
-    </td>
     <td valign="top"><a href="https://repology.org/metapackage/xerces-c/versions">
       <img src="https://repology.org/badge/vertical-allrepos/xerces-c.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/graphviz/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/graphviz.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
@@ -250,16 +254,12 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <th>zlib</th>
-    <th>graphviz</th>
     <th>cmake</th>
     <th>ccache</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/zlib/versions">
       <img src="https://repology.org/badge/vertical-allrepos/zlib.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/graphviz/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/graphviz.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/cmake/versions">
       <img src="https://repology.org/badge/vertical-allrepos/cmake.svg" alt="Packaging status" align="right"></a>
