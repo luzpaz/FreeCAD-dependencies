@@ -1,0 +1,20 @@
+## Maintainers List ##
+This page will be a compilation of the people that maintain FreeCAD and it's many
+dependencies across the spectrum of repos and operating systems
+
+
+### FreeCAD ###
+
+#### Fedora ####
+The Fedora issue tracker is https://apps.fedoraproject.org/packages/freecad/bugs/
+Points of Contact:
+* [hobbes1069](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=725) AKA [Richard Shaw](https://bugzilla.redhat.com/show_bug.cgi?id=1565611)
+
+
+
+------
+### OpenCascade ###
+Several contacts:
+
+
+------
