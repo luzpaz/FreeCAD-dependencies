@@ -65,7 +65,6 @@
     </td>
     <td align="left" valign="top">
       calculix<br/>
-      calculix-ccx<br/>
       elmerfem<br/>
       fenics<br/>
       openfoam<br/>
@@ -106,7 +105,6 @@ vtk
 netgen
 python:numpy  
 calculix  
-calculix-ccx  
 elmerfem  
 fenics  
 openfoam  
@@ -348,7 +346,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <th>calculix</th>
-    <th>calculix-ccx</th>
     <th>elmerfem</th>
     <th>fenics</th>
     <th>openfoam</th>
@@ -357,9 +354,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/calculix/versions">
       <img src="https://repology.org/badge/vertical-allrepos/calculix.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/calculix-ccx/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/calculix-ccx.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/elmerfem/versions">
       <img src="https://repology.org/badge/vertical-allrepos/elmerfem.svg" alt="Packaging status" align="right"></a>
