@@ -62,6 +62,7 @@
       ifcopenshell<br/>
       gts<br/>
       proj<br/>
+      pcl<br/>
     </td>
     <td align="left" valign="top">
       calculix<br/>
@@ -137,6 +138,7 @@ pycollada
 ifcopenshell  
 gts  
 proj  
+pcl  
 ```
 
 </details>
@@ -479,6 +481,17 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/ifcopenshell/versions">
       <img src="https://repology.org/badge/vertical-allrepos/ifcopenshell.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>pcl</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/pcl/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/pcl.svg" alt="Packaging status"></a>
     </td>
   </tr>
 </table>
