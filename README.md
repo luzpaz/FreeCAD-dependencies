@@ -293,6 +293,34 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 
 <table>
   <tr>
+    <th>calculix</th>
+    <th>elmerfem</th>
+    <th>fenics</th>
+    <th>openfoam</th>
+    <th>z88</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/calculix.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/elmerfem/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/elmerfem.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/fenics/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/fenics.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/openfoam/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/openfoam.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/z88/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/z88.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
     <th>orocos-kdl</th>
     <th>matplotlib</th>
     <th>python:matplotlib</th>
@@ -341,33 +369,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/libkdtree++/versions">
       <img src="https://repology.org/badge/vertical-allrepos/libkdtree++.svg" alt="Packaging status" align="right"></a>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>calculix</th>
-    <th>elmerfem</th>
-    <th>fenics</th>
-    <th>openfoam</th>
-    <th>z88</th>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/calculix.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/elmerfem/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/elmerfem.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/fenics/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/fenics.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/openfoam/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/openfoam.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/z88/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/z88.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
