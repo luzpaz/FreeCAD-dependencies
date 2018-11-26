@@ -59,15 +59,23 @@ Below is a list of badges that the FEM Workbench utilizes
   <tr>
     <th>felt</th>
     <th>Frame3dd</th>
+    <th>Impact-FEM</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/felt/versions">
     <img src="https://repology.org/badge/vertical-allrepos/felt.svg" alt="Packaging status"></a>
     </td>
-  </tr>
-  <tr>
-    <td valign="top">  <a href="https://repology.org/metapackage/frame3dd/versions">
+    <td valign="top"><a href="https://repology.org/metapackage/frame3dd/versions">
       <img src="https://repology.org/badge/vertical-allrepos/frame3dd.svg" alt="Packaging status"></a>
     </td>
+    <td valign="top"><a href="https://repology.org/metapackage/impact/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/impact.svg" alt="Packaging status"></a>
+    </td>
   </tr>
+
+
 </table>
+
+
+<a href="https://repology.org/metapackage/impact/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/impact.svg" alt="Packaging status"></a>
