@@ -60,6 +60,7 @@ Below is a list of badges that the FEM Workbench utilizes
     <th>felt</th>
     <th>Frame3dd</th>
     <th>Impact-FEM</th>
+    <th>Mumps</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/felt/versions">
@@ -71,11 +72,25 @@ Below is a list of badges that the FEM Workbench utilizes
     <td valign="top"><a href="https://repology.org/metapackage/impact/versions">
       <img src="https://repology.org/badge/vertical-allrepos/impact.svg" alt="Packaging status"></a>
     </td>
+    <td valign="top"><a href="https://repology.org/metapackage/mumps/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/mumps.svg" alt="Packaging status"></a>
+    </td>    
   </tr>
+</table>
 
-
+<table>
+  <tr>
+    <th>Nastran</th>
+    <th>OpenSees</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/nastran/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/nastran.svg" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/opensees/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/opensees.svg" alt="Packaging status"></a>
+    </td>
+  </tr>
 </table>
 
 
-<a href="https://repology.org/metapackage/impact/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/impact.svg" alt="Packaging status"></a>
