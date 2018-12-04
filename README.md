@@ -62,7 +62,7 @@
       ifcopenshell<br/>
       gts<br/>
       proj<br/>
-      pcl<br/>
+      pcl-pointclouds<br/>
     </td>
     <td align="left" valign="top">
       calculix<br/>
@@ -138,7 +138,7 @@ pycollada
 ifcopenshell  
 gts  
 proj  
-pcl  
+pcl-pointclouds  
 ```
 
 </details>
@@ -488,11 +488,11 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 
 <table>
   <tr>
-    <th>pcl</th>
+    <th>pcl-pointclouds</th>
   </tr>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/pcl/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/pcl.svg" alt="Packaging status"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/pcl-pointclouds/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/pcl-pointclouds.svg" alt="Packaging status"></a>
     </td>
   </tr>
 </table>
