@@ -283,7 +283,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <th>gmsh</th>
   </tr>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/netgen-mersher/versions">
+    <td valign="top"><a href="https://repology.org/metapackage/netgen-mesher/versions">
       <img src="https://repology.org/badge/vertical-allrepos/netgen-mesher.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/vtk/versions">
