@@ -63,6 +63,8 @@
       gts<br/>
       proj<br/>
       pcl-pointclouds<br/>
+      gitpython<br/>
+      python:gitpython</br>
     </td>
     <td align="left" valign="top">
       calculix<br/>
@@ -139,6 +141,8 @@ ifcopenshell
 gts  
 proj  
 pcl-pointclouds  
+gitpython  
+python:gitpython  
 ```
 
 </details>
@@ -489,10 +493,18 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <th>pcl-pointclouds</th>
+    <th>gitpython</th>  
+    <th>python:gitpython</th>  
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/pcl-pointclouds/versions">
       <img src="https://repology.org/badge/vertical-allrepos/pcl-pointclouds.svg" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gitpython/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/gitpython.svg" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/python:gitpython/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/python:gitpython.svg" alt="Packaging status"></a>
     </td>
   </tr>
 </table>
