@@ -150,16 +150,12 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 
 <table>
   <tr>
-    <th>python3</th>
     <th>qt5</th>
     <th>qt5-base</th>
     <th>shiboken2</th>
     <th>pyside2</th>
   </tr>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python3.svg" alt="Packaging status" align="right"></a>
-    </td>
     <td valign="top"><a href="https://repology.org/metapackage/qt5/versions">
       <img src="https://repology.org/badge/vertical-allrepos/qt5.svg" alt="Packaging status" align="right"></a>
     </td>
@@ -201,10 +197,14 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <th>med</th>
+    <th>python3</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/med/versions">
       <img src="https://repology.org/badge/vertical-allrepos/med.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/python3/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/python3.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
