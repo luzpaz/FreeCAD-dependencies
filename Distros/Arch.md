@@ -4,6 +4,9 @@ __Note:__
 
 <table>
   <tr>
+    <th colspan=3>Qt</th>
+  </tr>
+  <tr>
     <th colspan=3>qt5-base (Arch)</th>
   </tr>
   <tr>
@@ -16,6 +19,14 @@ __Note:__
     <td>
       </a><a href="https://repology.org/metapackage/qt5-base/versions"><img src="https://repology.org/badge/version-for-repo/aur/qt5-base.svg" alt="AUR package"></a>      
     </td>
+  </tr>
+  <tr>
+    <td colspan=3>shiboken</td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+</table>
     
 
 | shiboken2 | 
