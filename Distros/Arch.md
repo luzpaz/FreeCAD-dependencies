@@ -90,10 +90,6 @@ __Note:__
 | :-: |
 |[![Arch package](https://repology.org/badge/version-for-repo/arch/graphviz.svg)](https://repology.org/metapackage/graphviz/versions)|
 
-| graphviz-addons | 
-| :-: |
-|[![Arch package](https://repology.org/badge/version-for-repo/arch/graphviz-addons.svg)](https://repology.org/metapackage/graphviz-addons/versions)|
-
 | python:scipy | 
 | :-: |
 |[![Arch package](https://repology.org/badge/version-for-repo/arch/python:scipy.svg)](https://repology.org/metapackage/python:scipy/versions)|
