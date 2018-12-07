@@ -21,8 +21,6 @@
       salome-smesh<br/>
       smesh<br/>
       med<br/>
-      med-fichier<br/>
-      med-salome<br/>
       coin3d<br/>
       boost<br/>
       eigen3<br/>
@@ -93,8 +91,6 @@ opencascade-oce
 salome-smesh  
 smesh  
 med  
-med-fichier  
-med-salome  
 coin3d  
 boost  
 eigen3  
@@ -205,18 +201,10 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <th>med</th>
-    <th>med-fichier</th>
-    <th>med-salome</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/med/versions">
       <img src="https://repology.org/badge/vertical-allrepos/med.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/med-fichier/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/med-fichier.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/med-salome/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/med-salome.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
