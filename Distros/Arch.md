@@ -2,13 +2,21 @@
 __Note:__  
 *some of the entries may be empty due to the packages being either named differently on certain distro (qt5-base rather than qt5) or that the package exists in the Arch AUR*
 
-| qt5 | 
-| :-: |
-|[![Arch package](https://repology.org/badge/version-for-repo/arch/qt5.svg)](https://repology.org/metapackage/qt5/versions)|
-
-| qt5-base | 
-| :-: |
-|[![Arch package](https://repology.org/badge/version-for-repo/arch/qt5-base.svg)](https://repology.org/metapackage/qt5-base/versions)|
+<table>
+  <tr>
+    <th colspan=3>qt5-base (Arch)</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://repology.org/metapackage/qt5-base/versions"><img src="https://repology.org/badge/version-for-repo/arch/qt5-base.svg" alt="Arch package"></a>      
+    </td>
+    <td>
+      <a href="https://repology.org/metapackage/qt5-base/versions"><img src="https://repology.org/badge/version-for-repo/arch_testing/qt5-base.svg" alt="Arch Testing package">      
+    </td>
+    <td>
+      </a><a href="https://repology.org/metapackage/qt5-base/versions"><img src="https://repology.org/badge/version-for-repo/aur/qt5-base.svg" alt="AUR package"></a>      
+    </td>
+    
 
 | shiboken2 | 
 | :-: |
