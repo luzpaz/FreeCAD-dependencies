@@ -39,7 +39,6 @@
       python:gdal<br/>
       gdal-grass<br/>
       orcos-kdl<br/>
-      matplotlib<br/>
       python:matplotlib<br/>
       hdf5<br/>
       freetype<br/>
@@ -116,7 +115,6 @@ gdal
 python:gdal  
 gdal-grass  
 orcos-kdl  
-matplotlib  
 python:matplotlib  
 hdf5  
 freetype
@@ -316,7 +314,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <th>orocos-kdl</th>
-    <th>matplotlib</th>
     <th>python:matplotlib</th>
     <th>hdf5</th>
     <th>freetype</th>
@@ -324,9 +321,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/orocos-kdl/versions">
       <img src="https://repology.org/badge/vertical-allrepos/orocos-kdl.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/matplotlib/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/matplotlib.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/python:matplotlib/versions">
       <img src="https://repology.org/badge/vertical-allrepos/python:matplotlib.svg" alt="Packaging status" align="right"></a>
