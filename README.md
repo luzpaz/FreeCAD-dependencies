@@ -29,7 +29,6 @@
       zlib<br/>
       graphviz<br/>
       python:scipy<br/>
-      scipy<br/>
       vtk<br/>
       netgen-mesher<br/>
       python:numpy<br/>
@@ -99,7 +98,6 @@ cmake
 zlib  
 graphviz  
 python:scipy  
-scipy  
 vtk  
 netgen-mesher
 python:numpy  
@@ -364,16 +362,12 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <th>python:scipy</th>
-    <th>scipy</th>
     <th>python:numpy</th>
     <th>opencv</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/python:scipy/versions">
       <img src="https://repology.org/badge/vertical-allrepos/python:scipy.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/scipy/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/scipy.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/python:numpy/versions">
       <img src="https://repology.org/badge/vertical-allrepos/python:numpy.svg" alt="Packaging status" align="right"></a>
