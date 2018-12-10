@@ -20,6 +20,10 @@ If you're on MacOS use: https://github.com/Homebrew/homebrew-core/blob/master/CO
 
 If not, then find the formula on github, edit the formula (auto-forks for you), make the appropriate changes (change the version number and get the sha256 (use another updated repo to get the the hash or download the program and run `sha256sum`), the submit a PR via github GUI.
 
+### Hyperbola
+1. Search for the package in: https://www.hyperbola.info/packages/
+2. On the package page find `Flag Package Out-of-Date` link
+
 ### Linuxbrew
 See Homebrew
 
@@ -35,3 +39,6 @@ Open an issue on their [Github repo](https://github.com/Microsoft/vcpkg)
 
 ### Void Linux
 Open an issue on their [Github repo](https://github.com/void-linux/void-packages)
+
+### Yet Another Cygwin Ports (YACP)
+Open an issue on their [Github repo](https://github.com/fd00/yacp)
