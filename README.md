@@ -1,4 +1,10 @@
 ## Tracking FreeCAD and Dependencies
+This repository's function is to track FreeCAD and it's 3rd party dependencies in the package ecosystem
+
+## Hot to bump versions or request new packages
+See [Downstream Repos](https://github.com/luzpaz/FreeCAD-dependencies/blob/master/Downstream-Repos.md)
+
+## FreeCAD
 <table>
   <tr>
     <th>FreeCAD</th>
