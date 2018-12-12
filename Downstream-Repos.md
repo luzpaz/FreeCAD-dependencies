@@ -33,6 +33,10 @@ Open an issue at https://bugs.mageia.org
 ### nixpkgs
 Open an issue on their [Github repo](https://github.com/NixOS/nixpkgs/)
 
+### psilinux
+1. Find the package via repology or on their [github organization page](https://github.com/pisilinux)  
+2. Open an issue requesting update or new package. 
+
 ### vcpkg
 C++ Library Manager for Windows, Linux, and MacOS  
 Open an issue on their [Github repo](https://github.com/Microsoft/vcpkg)
