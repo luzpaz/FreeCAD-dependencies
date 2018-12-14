@@ -12,8 +12,12 @@
 ### FreeBSD (aka dports)
 Open a ticket on their [Bugzilla](https://bugs.freebsd.org/bugzilla/enter_bug.cgi) bugtracker.
 
-### Haiku Ports
+### Gentoo
+1. Open a ticket on their [Bugzilla](https://bugs.gentoo.org/enter_bug.cgi?product=Gentoo%20Linux) bugtracker.
+2. Choose either 'Current Packages' or 'New Packages' accordingly
 
+### Haiku Ports
+Open an issue on their [Haikuports GitHub repo](https://github.com/haikuports/haikuports/issues)
 
 ### Homebrew
 If you're on MacOS use: https://github.com/Homebrew/homebrew-core/blob/master/CONTRIBUTING.md
@@ -28,14 +32,14 @@ If not, then find the formula on github, edit the formula (auto-forks for you), 
 See Homebrew
 
 ### Mageia Cauldron
-Open an issue at https://bugs.mageia.org
+Open an issus on their [Bugzilla](https://bugs.mageia.org) Bugtracker
 
 ### nixpkgs
 Open an issue on their [Github repo](https://github.com/NixOS/nixpkgs/)
 
 ### psilinux
-1. Find the package via repology or on their [github organization page](https://github.com/pisilinux)  
-2. Open an issue requesting update or new package. 
+1. Find the package via repology or on their [GitHub organization page](https://github.com/pisilinux)  
+2. Open an issue requesting update or new package.
 
 ### vcpkg
 C++ Library Manager for Windows, Linux, and MacOS  
