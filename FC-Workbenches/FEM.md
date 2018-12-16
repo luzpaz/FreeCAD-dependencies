@@ -19,12 +19,12 @@ Below is a list of badges that the FEM Workbench utilizes
 
 <table>
   <tr>
-    <th>netgen</th>
+    <th>netgen-mesher</th>
     <th>vtk</th>
   </tr>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/netgen/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/netgen.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/netgen-mesher/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/netgen-mesher.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/vtk/versions">
       <img src="https://repology.org/badge/vertical-allrepos/vtk.svg" alt="Packaging status" align="right"></a>
