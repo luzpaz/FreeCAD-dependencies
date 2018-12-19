@@ -61,6 +61,20 @@ Open an issue on their [Github repo](https://github.com/void-linux/void-packages
 ### Yet Another Cygwin Ports (YACP)
 Open an issue on their [Github repo](https://github.com/fd00/yacp)
 
+#### Tips for submitting PRs
+<details>
+  <summary>Tips on how to submit PRs</summary>
+    <ul>
+      <li>Clone the repository
+      <li>Edit the package forumla/recipe
+      <li>Update the version number of the package
+      <li>Download the updated package version
+      <li>Generate a sha256 <tt>openssl dgst -sha256 package-name</tt>
+      <li>Note: Macports requires a rmd160. Generate an rmd160 <tt>openssl dgst -rmd160 package-name</tt>
+      <li>Submit PR
+    <ul>
+</details>
+
 </details>
 
 ## FreeCAD
