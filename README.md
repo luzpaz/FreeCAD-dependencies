@@ -35,6 +35,12 @@ If not, then find the formula on github, edit the formula (auto-forks for you), 
 ### Linuxbrew
 See Homebrew
 
+### Macports
+There are a several ways to update/request macports. Before anything, please search their github repo for [open PRs](github.com/macports/macports-ports/pulls) and their [bugtracker](https://trac.macports.org/search?q=&portsummarysearch=on) to avoid duplicate requests.
+1. If you have macports installed you can go through the recommended way to update a macport
+2. If you don't have macports installed you can still open a PR. You'll need to somethings in the PR 
+3. Open a ticket on their [bugtracker](https://trac.macports.org) requesting an update or a new package. 
+
 ### Mageia Cauldron
 Open an issus on their [Bugzilla](https://bugs.mageia.org) Bugtracker
 
