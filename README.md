@@ -87,6 +87,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       smesh<br/>
       med<br/>
       coin3d<br/>
+      simage<br/>
       boost<br/>
       eigen3<br/>
       pivy<br/>
@@ -154,6 +155,7 @@ salome-smesh
 smesh  
 med  
 coin3d  
+simage  
 boost  
 eigen3  
 pivy  
@@ -257,6 +259,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <th>med</th>
     <th>python3</th>
+    <th>boost</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/med/versions">
@@ -265,43 +268,45 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/python3/versions">
       <img src="https://repology.org/badge/vertical-allrepos/python3.svg" alt="Packaging status" align="right"></a>
     </td>
+    <td valign="top"><a href="https://repology.org/metapackage/boost/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/boost.svg" alt="Packaging status" align="right"></a>
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <th>boost</th>
     <th>coin3d</th>
     <th>pivy</th>
+    <th>simage</th>
   </tr>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/boost/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/boost.svg" alt="Packaging status" align="right"></a>
-    </td>
     <td valign="top"><a href="https://repology.org/metapackage/coin3d/versions">
       <img src="https://repology.org/badge/vertical-allrepos/coin3d.svg" alt="Packaging status" align="right"></a>
     <td valign="top"><a href="https://repology.org/metapackage/pivy/versions">
       <img src="https://repology.org/badge/vertical-allrepos/pivy.svg" alt="Packaging status" align="right"></a>
     </td>
+    <td valign="top"><a href="https://repology.org/metapackage/simage/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/simage.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
+    <th>hdf5</th>
     <th>eigen3</th>
     <th>xerces-c</th>
-    <th>graphviz</th>
   </tr>
   <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/hdf5/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/hdf5.svg" alt="Packaging status" align="right"></a>
+    </td>
     <td valign="top"><a href="https://repology.org/metapackage/eigen3/versions">
       <img src="https://repology.org/badge/vertical-allrepos/eigen3.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/xerces-c/versions">
       <img src="https://repology.org/badge/vertical-allrepos/xerces-c.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/graphviz/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/graphviz.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
@@ -329,7 +334,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <th>netgen-mesher</th>
     <th>vtk</th>
-    <th>gmsh</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/netgen-mesher/versions">
@@ -338,24 +342,30 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/vtk/versions">
       <img src="https://repology.org/badge/vertical-allrepos/vtk.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/gmsh/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/gmsh.svg" alt="Packaging status" align="right"></a>
-    </td>
   </tr>
 </table>
 
 <table>
   <tr>
     <th>calculix</th>
+    <th>gmsh</th>
+  </tr>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/calculix.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gmsh/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/gmsh.svg" alt="Packaging status" align="right"></a>
+    </td>
+</table>
+
+<table>
+  <tr>
     <th>elmerfem</th>
     <th>fenics</th>
     <th>openfoam</th>
     <th>z88</th>
   </tr>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/calculix.svg" alt="Packaging status" align="right"></a>
-    </td>
     <td valign="top"><a href="https://repology.org/metapackage/elmerfem/versions">
       <img src="https://repology.org/badge/vertical-allrepos/elmerfem.svg" alt="Packaging status" align="right"></a>
     </td>
@@ -376,7 +386,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <th>orocos-kdl</th>
     <th>python:matplotlib</th>
-    <th>hdf5</th>
     <th>freetype</th>
   </tr>
   <tr>
@@ -386,11 +395,23 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/python:matplotlib/versions">
       <img src="https://repology.org/badge/vertical-allrepos/python:matplotlib.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/hdf5/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/hdf5.svg" alt="Packaging status" align="right"></a>
-    </td>
     <td valign="top"><a href="https://repology.org/metapackage/freetype/versions">
       <img src="https://repology.org/badge/vertical-allrepos/freetype.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>graphviz</th>
+    <th>ifcopenshell</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/graphviz/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/graphviz.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/ifcopenshell/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/ifcopenshell.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
@@ -516,7 +537,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <th>proj</th>
     <th>gts</th>
-    <th>ifcopenshell</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/proj/versions">
@@ -524,9 +544,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/gts/versions">
       <img src="https://repology.org/badge/vertical-allrepos/gts.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/ifcopenshell/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/ifcopenshell.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
