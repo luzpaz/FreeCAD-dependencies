@@ -13,8 +13,13 @@ This repository's function is to track FreeCAD and it's 3rd party dependencies i
 1. Search for the package in: https://aur.archlinux.org
 2. On the package page find `Flag Package Out-of-Date` link
 
-### FreeBSD (aka dports)
-Open a ticket on their [Bugzilla](https://bugs.freebsd.org/bugzilla/enter_bug.cgi) bugtracker.
+### Chocolatey 
+Request new packages at https://github.com/chocolatey/chocolatey-package-requests
+Request package updates by [contacting the maintainer of said chocolatey package](https://chocolatey.org/docs/package-triage-process#package-is-outdated)
+
+### FreeBSD (aka Freshports/dports)
+Open a ticket on their [Bugzilla](https://bugs.freebsd.org/bugzilla/enter_bug.cgi) bugtracker.  
+FYI, dports lags behind Freshports 
 
 ### Gentoo
 1. Open a ticket on their [Bugzilla](https://bugs.gentoo.org/enter_bug.cgi?product=Gentoo%20Linux) bugtracker.
