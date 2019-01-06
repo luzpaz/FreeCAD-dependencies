@@ -80,12 +80,12 @@ Below is a list of badges that the FEM Workbench utilizes
 
 <table>
   <tr>
-    <th>Nastran</th>
+    <th>Nastran-95</th>
     <th>OpenSees</th>
   </tr>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/nastran/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/nastran.svg" alt="Packaging status"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/nastran-95/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/nastran-95.svg" alt="Packaging status"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/opensees/versions">
     <img src="https://repology.org/badge/vertical-allrepos/opensees.svg" alt="Packaging status"></a>
