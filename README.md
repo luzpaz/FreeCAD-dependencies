@@ -146,6 +146,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       pcl-pointclouds<br/>
       python:gitpython</br>
       expat</br>
+      soqt</br>
     </td>
     <td align="left" valign="top">
       calculix<br/>
@@ -221,6 +222,7 @@ proj
 pcl-pointclouds  
 python:gitpython
 expat  
+soqt  
 ```
 
 </details>
@@ -296,12 +298,15 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <th>coin3d</th>
+    <th>soqt</th>
     <th>pivy</th>
     <th>simage</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/coin3d/versions">
       <img src="https://repology.org/badge/vertical-allrepos/coin3d.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/soqt/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/soqt.svg" alt="Packaging status" align="right"></a>
     <td valign="top"><a href="https://repology.org/metapackage/pivy/versions">
       <img src="https://repology.org/badge/vertical-allrepos/pivy.svg" alt="Packaging status" align="right"></a>
     </td>
