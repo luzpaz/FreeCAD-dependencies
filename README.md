@@ -98,8 +98,8 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       python3<br/>
       qt5<br/>
       qt5-base<br/>
-      shiboken2<br/>
-      pyside2<br/>
+      python:shiboken2<br/>
+      python:pyside2<br/>
       opencascade<br/>
       opencascade-oce<br/>
       salome-smesh<br/>
@@ -167,8 +167,8 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
 python3  
 qt5  
 qt5-base  
-shiboken2  
-pyside2  
+python:shiboken2  
+python:pyside2  
 opencascade  
 opencascade-oce  
 salome-smesh  
@@ -234,8 +234,8 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <th>qt5</th>
     <th>qt5-base</th>
-    <th>shiboken2</th>
-    <th>pyside2</th>
+    <th>python:hiboken2</th>
+    <th>python:pyside2</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/qt5/versions">
@@ -244,10 +244,10 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/qt5-base/versions">
       <img src="https://repology.org/badge/vertical-allrepos/qt5-base.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/shiboken2/versions">
+    <td valign="top"><a href="https://repology.org/metapackage/python:shiboken2/versions">
       <img src="https://repology.org/badge/vertical-allrepos/shiboken2.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/pyside2/versions">
+    <td valign="top"><a href="https://repology.org/metapackage/python:pyside2/versions">
       <img src="https://repology.org/badge/vertical-allrepos/pyside2.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
