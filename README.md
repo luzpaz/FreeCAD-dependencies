@@ -234,7 +234,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <th>qt5</th>
     <th>qt5-base</th>
-    <th>python:hiboken2</th>
+    <th>python:shiboken2</th>
     <th>python:pyside2</th>
   </tr>
   <tr>
