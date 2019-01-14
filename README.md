@@ -147,6 +147,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       python:gitpython</br>
       expat</br>
       soqt</br>
+      netcdf</br>
     </td>
     <td align="left" valign="top">
       calculix<br/>
@@ -223,6 +224,7 @@ pcl-pointclouds
 python:gitpython
 expat  
 soqt  
+netcdf  
 ```
 
 </details>
@@ -281,6 +283,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <th>med</th>
     <th>python3</th>
     <th>boost</th>
+    <th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/med/versions">
@@ -292,7 +295,10 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/boost/versions">
       <img src="https://repology.org/badge/vertical-allrepos/boost.svg" alt="Packaging status" align="right"></a>
     </td>
-  </tr>
+    <td valign="top"><a href="https://repology.org/metapackage/netcdf/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/netcdf.svg" alt="Packaging status" align="right"></a>
+    </td>
+</tr>
 </table>
 
 <table>
