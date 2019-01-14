@@ -283,7 +283,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <th>med</th>
     <th>python3</th>
     <th>boost</th>
-    <th>
+    <th>netcdf</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/med/versions">
