@@ -82,6 +82,7 @@ Below is a list of badges that the FEM Workbench utilizes
   <tr>
     <th>Nastran-95</th>
     <th>OpenSees</th>
+    <th>libmesh</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/nastran-95/versions">
@@ -89,6 +90,9 @@ Below is a list of badges that the FEM Workbench utilizes
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/opensees/versions">
     <img src="https://repology.org/badge/vertical-allrepos/opensees.svg" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/libmesh/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/libmesh.svg" alt="Packaging status"></a>
     </td>
   </tr>
 </table>
