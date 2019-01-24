@@ -109,7 +109,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       simage<br/>
       boost<br/>
       eigen3<br/>
-      pivy<br/>
+      python:pivy<br/>
       xerces-c<br/>
       zlib<br/>
       graphviz<br/>
@@ -179,7 +179,7 @@ coin3d
 simage  
 boost  
 eigen3  
-pivy  
+python:pivy  
 xerces-c  
 cmake  
 zlib  
@@ -305,7 +305,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <th>coin3d</th>
     <th>soqt</th>
-    <th>pivy</th>
+    <th>python:pivy</th>
     <th>simage</th>
   </tr>
   <tr>
@@ -313,8 +313,8 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
       <img src="https://repology.org/badge/vertical-allrepos/coin3d.svg" alt="Packaging status" align="right"></a>
     <td valign="top"><a href="https://repology.org/metapackage/soqt/versions">
       <img src="https://repology.org/badge/vertical-allrepos/soqt.svg" alt="Packaging status" align="right"></a>
-    <td valign="top"><a href="https://repology.org/metapackage/pivy/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/pivy.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/python:pivy/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/python:pivy.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/simage/versions">
       <img src="https://repology.org/badge/vertical-allrepos/simage.svg" alt="Packaging status" align="right"></a>
