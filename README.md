@@ -120,7 +120,6 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       ccache<br/>
       opencv<br/>
       gdal<br/>
-      python:gdal<br/>
       gdal-grass<br/>
       orcos-kdl<br/>
       python:matplotlib<br/>
@@ -197,7 +196,6 @@ gmsh
 ccache  
 opencv  
 gdal  
-python:gdal  
 gdal-grass  
 orcos-kdl  
 python:matplotlib  
@@ -495,15 +493,11 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <th>gdal</th>
-    <th>python:gdal</th>
     <th>gdal-grass</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/gdal/versions">
       <img src="https://repology.org/badge/vertical-allrepos/gdal.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/python:gdal/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python:gdal.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/gdal-grass/versions">
       <img src="https://repology.org/badge/vertical-allrepos/gdal-grass.svg" alt="Packaging status" align="right"></a>
