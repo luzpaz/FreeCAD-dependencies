@@ -20,12 +20,6 @@ __Note:__
       </a><a href="https://repology.org/metapackage/qt5-base/versions"><img src="https://repology.org/badge/version-for-repo/aur/qt5-base.svg" alt="AUR package"></a>      
     </td>
   </tr>
-  <tr>
-    <td colspan=3>shiboken</td>
-  </tr>
-  <tr>
-    <td></td>
-  </tr>
 </table>
     
 
@@ -141,14 +135,19 @@ __Note:__
 | :-: |
 |[![Arch package](https://repology.org/badge/version-for-repo/arch/opencv.svg)](https://repology.org/metapackage/opencv/versions)|
 
-| gdal | 
-| :-: |
-|[![Arch package](https://repology.org/badge/version-for-repo/arch/gdal.svg)](https://repology.org/metapackage/gdal/versions)|
-
-| python:gdal | 
-| :-: |
-|[![Arch package](https://repology.org/badge/version-for-repo/arch/python:gdal.svg)](https://repology.org/metapackage/python:gdal/versions)|
-
-| gdal-grass | 
-| :-: |
-|[![Arch package](https://repology.org/badge/version-for-repo/arch/gdal-grass.svg)](https://repology.org/metapackage/gdal-grass/versions)|
+<table>
+  <tr>
+    <th colspan=3>gdal</th>
+  </tr>
+  <tr>
+    <th colspan=2>Description</th>
+    <th>Version</th>
+  </tr>
+  <tr>
+    <td colspan=2>Translator library for raster geospatial data formats
+    </td>
+    <td>
+      <a href="https://repology.org/metapackage/gdal/versions"><img src="https://repology.org/badge/version-for-repo/arch/gdal.svg" alt="Arch package"></a>
+    </td>
+  </tr>
+</table>
