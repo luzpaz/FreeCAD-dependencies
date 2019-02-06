@@ -43,7 +43,7 @@ See Homebrew
 ### Macports
 There are a several ways to update/request macports. Before anything, please search their github repo for [open PRs](github.com/macports/macports-ports/pulls) and their [bugtracker](https://trac.macports.org/search?q=&portsummarysearch=on) to avoid duplicate requests.
 1. If you have macports installed you can go through the recommended way to update a macport
-2. If you don't have macports installed you can still open a PR. You'll need to somethings in the PR 
+2. If you don't have macports installed you can still open a PR. You'll need to some things in the PR 
 3. Open a ticket on their [bugtracker](https://trac.macports.org) requesting an update or a new package. 
 
 ### Mageia Cauldron
@@ -52,9 +52,15 @@ Open an issus on their [Bugzilla](https://bugs.mageia.org) Bugtracker
 ### nixpkgs
 Open an issue on their [Github repo](https://github.com/NixOS/nixpkgs/)
 
+### OpenMandriva Cooker
+Open an issue on their [Bugzilla](https://issues.openmandriva.org/enter_bug.cgi?product=Cooker)
+
 ### psilinux
 1. Find the package via repology or on their [GitHub organization page](https://github.com/pisilinux)  
 2. Open an issue requesting update or new package.
+
+### scoop
+Open an issue on their [Github repo](https://github.com/lukesampson/scoop/issues)
 
 ### vcpkg
 C++ Library Manager for Windows, Linux, and MacOS  
