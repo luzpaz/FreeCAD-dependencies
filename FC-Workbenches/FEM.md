@@ -5,6 +5,7 @@ Below is a list of badges that the FEM Workbench utilizes
   <tr>
     <th>calculix</th>
     <th>gmsh</th>
+    <th>paraview</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/calculix/versions">
@@ -12,6 +13,9 @@ Below is a list of badges that the FEM Workbench utilizes
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/gmsh/versions">
       <img src="https://repology.org/badge/vertical-allrepos/gmsh.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/paraview/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/paraview.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
