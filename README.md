@@ -62,6 +62,9 @@ Open an issue on their [Bugzilla](https://issues.openmandriva.org/enter_bug.cgi?
 ### scoop
 Open an issue on their [Github repo](https://github.com/lukesampson/scoop/issues)
 
+### solus
+Open an issue on their [Phabricator](https://dev.getsol.us/maniphest/)
+
 ### vcpkg
 C++ Library Manager for Windows, Linux, and MacOS  
 Open an issue on their [Github repo](https://github.com/Microsoft/vcpkg)
