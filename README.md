@@ -107,7 +107,6 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       cmake<br/>
       python3<br/>
       qt5<br/>
-      qt5-base<br/>
       python:shiboken2<br/>
       python:pyside2<br/>
       opencascade<br/>
@@ -176,7 +175,6 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
 ```
 python3  
 qt5  
-qt5-base  
 python:shiboken2  
 python:pyside2  
 opencascade  
@@ -243,16 +241,12 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <th>qt5</th>
-    <th>qt5-base</th>
     <th>python:shiboken2</th>
     <th>python:pyside2</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/qt5/versions">
       <img src="https://repology.org/badge/vertical-allrepos/qt5.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5-base/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/qt5-base.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/python:shiboken2/versions">
       <img src="https://repology.org/badge/vertical-allrepos/python:shiboken2.svg" alt="Packaging status" align="right"></a>
