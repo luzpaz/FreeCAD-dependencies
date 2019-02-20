@@ -146,8 +146,6 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       povray<br/>
       opencamlib<br/>
       python:pycollada<br/>
-      python:collada<br/>
-      pycollada<br/>
       ifcopenshell<br/>
       gts<br/>
       proj<br/>
@@ -221,8 +219,6 @@ luxrender
 povray  
 opencamlib  
 python:pycollada  
-python:collada  
-pycollada  
 ifcopenshell  
 gts  
 proj  
@@ -542,8 +538,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <th>opencamlib</th>
     <th>python:pycollada</th>
-    <th>python:collada</th>
-    <th>pycollada</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/opencamlib/versions">
@@ -551,12 +545,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/python:pycollada/versions">
       <img src="https://repology.org/badge/vertical-allrepos/python:pycollada.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/python:collada/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python:collada.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/pycollada/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/pycollada.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
