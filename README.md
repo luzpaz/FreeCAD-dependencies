@@ -122,9 +122,9 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       xerces-c<br/>
       zlib<br/>
       graphviz<br/>
-      python:scipy<br/>
       vtk<br/>
       netgen-mesher<br/>
+      python:scipy<br/>
       python:numpy<br/>
       ccache<br/>
       opencv<br/>
@@ -189,9 +189,9 @@ xerces-c
 cmake  
 zlib  
 graphviz  
-python:scipy  
 vtk  
 netgen-mesher
+python:scipy  
 python:numpy  
 calculix  
 elmerfem  
