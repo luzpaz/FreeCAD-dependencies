@@ -432,11 +432,15 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <th>graphviz</th>
+    <th>swig</th>
     <th>ifcopenshell</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/graphviz/versions">
       <img src="https://repology.org/badge/vertical-allrepos/graphviz.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/swig/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/swig.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/ifcopenshell/versions">
       <img src="https://repology.org/badge/vertical-allrepos/ifcopenshell.svg" alt="Packaging status" align="right"></a>
@@ -446,16 +450,12 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 
 <table>
   <tr>
-    <th>swig</th>
     <th>libspnav</th>
     <th>spnavcfg</th>
     <th>zipios++</th>
     <th>libkdtree++</th>
   </tr>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/swig/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/swig.svg" alt="Packaging status" align="right"></a>
-    </td>
     <td valign="top"><a href="https://repology.org/metapackage/libspnav/versions">
       <img src="https://repology.org/badge/vertical-allrepos/libspnav.svg" alt="Packaging status" align="right"></a>
     </td>
