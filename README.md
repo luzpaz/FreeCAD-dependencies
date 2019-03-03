@@ -362,6 +362,8 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <th>netgen-mesher</th>
     <th>vtk</th>
+    <th>calculix</th>
+    <th>gmsh</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/netgen-mesher/versions">
@@ -370,20 +372,12 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/vtk/versions">
       <img src="https://repology.org/badge/vertical-allrepos/vtk.svg" alt="Packaging status" align="right"></a>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>calculix</th>
-    <th>gmsh</th>
-  </tr>
     <td valign="top"><a href="https://repology.org/metapackage/calculix/versions">
       <img src="https://repology.org/badge/vertical-allrepos/calculix.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/gmsh/versions">
       <img src="https://repology.org/badge/vertical-allrepos/gmsh.svg" alt="Packaging status" align="right"></a>
-    </td>
+  </tr>
 </table>
 
 <table>
