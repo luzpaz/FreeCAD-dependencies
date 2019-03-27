@@ -1,5 +1,5 @@
 ## FEM Workbench Third Party Dependencies
-Below is a list of badges that the FEM Workbench utilizes
+Below is a list of badges that the FEM Workbench does or perhaps will utilize:
 
 <table>
   <tr>
