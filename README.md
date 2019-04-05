@@ -23,7 +23,8 @@ FYI, dports lags behind Freshports
 
 ### Gentoo
 1. Open a ticket on their [Bugzilla](https://bugs.gentoo.org/enter_bug.cgi?product=Gentoo%20Linux) bugtracker.
-2. Choose either 'Current Packages' or 'New Packages' accordingly
+2. Choose either 'Current Packages' or 'New Packages' accordingly  
+Also, it's possible to see PRs in https://github.com/gentoo/gentoo/
 
 ### Haiku Ports
 Open an issue on their [Haikuports GitHub repo](https://github.com/haikuports/haikuports/issues)
@@ -50,7 +51,8 @@ There are a several ways to update/request macports. Before anything, please sea
 Open an issus on their [Bugzilla](https://bugs.mageia.org) Bugtracker
 
 ### nixpkgs
-Open an issue on their [Github repo](https://github.com/NixOS/nixpkgs/)
+Open an issue on their [Github repo](https://github.com/NixOS/nixpkgs/)  
+It's possible to open PRs to bump versions but note that the checksum they ask for isn't `sha256sum`
 
 ### OpenMandriva Cooker
 Open an issue on their [Bugzilla](https://issues.openmandriva.org/enter_bug.cgi?product=Cooker)
@@ -68,7 +70,8 @@ Make sure to follow their [guidelines](https://getsol.us/articles/packaging/requ
 
 ### vcpkg
 C++ Library Manager for Windows, Linux, and MacOS  
-Open an issue on their [Github repo](https://github.com/Microsoft/vcpkg)
+Open an issue on their [Github repo](https://github.com/Microsoft/vcpkg)  
+Note: they don
 
 ### Void Linux
 Open an issue on their [Github repo](https://github.com/void-linux/void-packages)
