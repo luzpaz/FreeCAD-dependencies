@@ -141,6 +141,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       libspnav<br/>
       spnavcfg<br/>
       zipios++<br/>
+      zipios<br/>
       libkdtree++<br/>
       oda-file-converter<br/>
       teighafileconverter<br/>
@@ -214,6 +215,8 @@ swig
 libspnav  
 spnavcfg  
 zipios++  
+
+
 libkdtree++  
 oda-file-converter  
 teighafileconverter  
@@ -449,7 +452,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <th>libspnav</th>
     <th>spnavcfg</th>
-    <th>zipios++</th>
     <th>libkdtree++</th>
   </tr>
   <tr>
@@ -459,11 +461,23 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/spnavcfg/versions">
       <img src="https://repology.org/badge/vertical-allrepos/spnavcfg.svg" alt="Packaging status" align="right"></a>
     </td>
+    <td valign="top"><a href="https://repology.org/metapackage/libkdtree++/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/libkdtree++.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>zipios++</th>
+    <th>zipios</th>
+  </tr>
+  <tr>
     <td valign="top"><a href="https://repology.org/metapackage/zipios++/versions">
       <img src="https://repology.org/badge/vertical-allrepos/zipios++.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/libkdtree++/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/libkdtree++.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/zipios/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/zipios.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
