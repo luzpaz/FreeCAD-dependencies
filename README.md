@@ -256,339 +256,250 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 
 <table>
   <tr>
-    <th>opencascade</th>
-    <th>opencascade-oce</th>
-    <th>salome-smesh</th>
-    <th>smesh</th>
-  </tr>
-  <tr>
     <td valign="top"><a href="https://repology.org/metapackage/opencascade/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/opencascade.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/opencascade.svg?header=opencascade" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/opencascade-oce/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/opencascade-oce.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/opencascade-oce.svg?header=opencascade-oce" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/salome-smesh/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/salome-smesh.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/salome-smesh.svg?header=salome-smesh" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/smesh/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/smesh.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/smesh.svg?header=smesh" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <th>med</th>
-    <th>python3</th>
-    <th>boost</th>
-    <th>netcdf</th>
-  </tr>
-  <tr>
     <td valign="top"><a href="https://repology.org/metapackage/med/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/med.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/med.svg?header=med" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/python3/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python3.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/python3.svg?header=python3" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/boost/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/boost.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/boost.svg?header=boost" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/netcdf/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/netcdf.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/netcdf.svg?header=netcdf" alt="Packaging status" align="right"></a>
     </td>
 </tr>
 </table>
 
 <table>
   <tr>
-    <th>coin3d</th>
-    <th>soqt</th>
-    <th>python:pivy</th>
-    <th>simage</th>
-  </tr>
-  <tr>
     <td valign="top"><a href="https://repology.org/metapackage/coin3d/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/coin3d.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/coin3d.svg?header=coin3d" alt="Packaging status" align="right"></a>
     <td valign="top"><a href="https://repology.org/metapackage/soqt/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/soqt.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/soqt.svg?header=soqt" alt="Packaging status" align="right"></a>
     <td valign="top"><a href="https://repology.org/metapackage/python:pivy/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python:pivy.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/python:pivy.svg?header=python%3Apivy" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/simage/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/simage.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/simage.svg?header=simage" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
 
 <table>
-  <tr>
-    <th>hdf5</th>
-    <th>eigen3</th>
-    <th>xerces-c</th>
-  </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/hdf5/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/hdf5.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/hdf5.svg?header=hdf5" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/eigen3/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/eigen3.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/eigen3.svg?header=eigen3" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/xerces-c/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/xerces-c.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/xerces-c.svg?header=xerces-c" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
 
 <table>
-  <tr>
-    <th>zlib</th>
-    <th>cmake</th>
-    <th>ccache</th>
-  </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/zlib/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/zlib.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/zlib.svg?header=zlib" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/cmake/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/cmake.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/cmake.svg?header=cmake" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/ccache/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/ccache.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/ccache.svg?header=ccache" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
 
 <table>
-  <tr>
-    <th>netgen-mesher</th>
-    <th>vtk</th>
-    <th>calculix</th>
-    <th>gmsh</th>
-  </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/netgen-mesher/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/netgen-mesher.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/netgen-mesher.svg?header=netgen-mesher" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/vtk/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/vtk.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/vtk.svg?header=vtk" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/calculix/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/calculix.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/calculix.svg?header=calculix" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/gmsh/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/gmsh.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/gmsh.svg?header=gmsh" alt="Packaging status" align="right"></a>
   </tr>
 </table>
 
 <table>
-  <tr>
-    <th>elmerfem</th>
-    <th>fenics</th>
-    <th>openfoam</th>
-    <th>z88</th>
-  </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/elmerfem/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/elmerfem.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/elmerfem.svg?header=elmerfem" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/fenics/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/fenics.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/fenics.svg?header=fenics" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/openfoam/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/openfoam.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/openfoam.svg?header=openfoam" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/z88/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/z88.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/z88.svg?header=z88" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
 
 
 <table>
-  <tr>
-    <th>orocos-kdl</th>
-    <th>python:matplotlib</th>
-    <th>freetype</th>
-  </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/orocos-kdl/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/orocos-kdl.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/orocos-kdl.svg?header=orcos-kdl" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/python:matplotlib/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python:matplotlib.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/python:matplotlib.svg?header=python%3Amatplotlib" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/freetype/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/freetype.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/freetype.svg?header=freetype" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
 
 <table>
-  <tr>
-    <th>graphviz</th>
-    <th>swig</th>
-    <th>ifcopenshell</th>
-  </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/graphviz/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/graphviz.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/graphviz.svg?header=graphviz" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/swig/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/swig.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/swig.svg?header=swig" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/ifcopenshell/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/ifcopenshell.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/ifcopenshell.svg?header=ifcopenshell" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
 
 <table>
-  <tr>
-    <th>libspnav</th>
-    <th>spnavcfg</th>
-    <th>libkdtree++</th>
-  </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/libspnav/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/libspnav.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/libspnav.svg?header=libspnav" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/spnavcfg/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/spnavcfg.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/spnavcfg.svg?header=spnavcfg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/libkdtree++/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/libkdtree++.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/libkdtree++.svg?header=libkdtree++" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
 
 <table>
-  <tr>
-    <th>zipios++</th>
-    <th>zipios</th>
-  </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/zipios++/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/zipios++.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/zipios++.svg?header=zipios++" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/zipios/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/zipios.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/zipios.svg?header=zipios" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
 
 <table>
-  <tr>
-    <th>python:scipy</th>
-    <th>python:numpy</th>
-    <th>opencv</th>
-  </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/python:scipy/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python:scipy.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/python:scipy.svg?header=python%3Ascipy" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/python:numpy/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python:numpy.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/python:numpy.svg?header=python%3Anumpy" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/opencv/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/opencv.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/opencv.svg?header=opencv" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
 
 <table>
-  <tr>
-    <th>gdal</th>
-    <th>gdal-grass</th>
-  </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/gdal/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/gdal.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/gdal.svg?header=gdal" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/gdal-grass/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/gdal-grass.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/gdal-grass.svg?header=gdal-grass" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <th>oda-file-converter</th>
-    <th>teighafileconverter</th>
-    <th>luxcorerender</th>
-    <th>luxrender</th>
-    <th>povray</th>
-  </tr>
-  <tr>
     <td valign="top"><a href="https://repology.org/metapackage/oda-file-converter/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/oda-file-converter.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/oda-file-converter.svg?header=oda-file-converter" alt="Packaging status" align="right"></a>
     </td>
         <td valign="top"><a href="https://repology.org/metapackage/teighafileconverter/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/teighafileconverter.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/teighafileconverter.svg?header=teighafileconverter" alt="Packaging status" align="right"></a>
     </td>
     </td>
         <td valign="top"><a href="https://repology.org/metapackage/luxcorerender/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/luxcorerender.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/luxcorerender.svg?header=luxcorerender" alt="Packaging status" align="right"></a>
     </td>
     </td>
         <td valign="top"><a href="https://repology.org/metapackage/luxrender/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/luxrender.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/luxrender.svg?header=luxrender" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/povray/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/povray.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/povray.svg?header=povray" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
 
 <table>
-  <tr>
-    <th>opencamlib</th>
-    <th>python:pycollada</th>
-  </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/opencamlib/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/opencamlib.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/opencamlib.svg?header=opencamlib" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/python:pycollada/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python:pycollada.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/python:pycollada.svg?header=python%3Apycollada" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
 
 <table>
-  <tr>
-    <th>proj</th>
-    <th>gts</th>
-    <th>pysolar</th>
-  </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/proj/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/proj.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/proj.svg?header=proj" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/gts/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/gts.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/gts.svg?header=gts" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/pysolar/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/pysolar.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/pysolar.svg?header=pysolar" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <th>pcl-pointclouds</th>
-    <th>python:gitpython</th>  
-    <th>expat</th>
-  </tr>
-  <tr>
     <td valign="top"><a href="https://repology.org/metapackage/pcl-pointclouds/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/pcl-pointclouds.svg" alt="Packaging status"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/pcl-pointclouds.svg?header=pcl-pointclouds" alt="Packaging status"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/python:gitpython/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python:gitpython.svg" alt="Packaging status"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/python:gitpython.svg?header=python%3Agitpython" alt="Packaging status"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/expat/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/expat.svg" alt="Packaging status"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/expat.svg?header=expat" alt="Packaging status"></a>
     </td>
   </tr>
 </table>
