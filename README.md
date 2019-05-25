@@ -251,7 +251,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
       <img src="https://repology.org/badge/vertical-allrepos/qt5.svg?header=qt5" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/python:shiboken2/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python:shiboken2.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/python:shiboken2.svg?header=python%3Ashiboken2" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/python:pyside2/versions">
       <img src="https://repology.org/badge/vertical-allrepos/python:pyside2.svg" alt="Packaging status" align="right"></a>
