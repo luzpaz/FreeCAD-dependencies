@@ -191,11 +191,27 @@ __Note:__
     </td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/eigen3/versions">
-      <img src="https://repology.org/badge/version-for-repo/arch/eigen3.svg?header=Arch eigen3" alt="Packaging status"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/calculix.svg?header=Arch calculix" alt="Packaging status"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/eigen3/versions">
-      <img src="https://repology.org/badge/version-for-repo/aur/eigen3.svg?header=AUR eigen3" alt="Packaging status"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/calculix.svg?header=AUR calculix" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/gmsh/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/gmsh.svg?header=Arch gmsh" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gmsh/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/gmsh.svg?header=AUR gmsh" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/openfoam/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/openfoam.svg?header=Arch openfoam" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/openfoam/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/openfoam.svg?header=AUR openfoam" alt="Packaging status"></a>
     </td>
   </tr>
   <tr>
@@ -207,11 +223,194 @@ __Note:__
     </td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/eigen3/versions">
-      <img src="https://repology.org/badge/version-for-repo/arch/eigen3.svg?header=Arch eigen3" alt="Packaging status"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/fenics/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/fenics.svg?header=Arch fenics" alt="Packaging status"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/eigen3/versions">
-      <img src="https://repology.org/badge/version-for-repo/aur/eigen3.svg?header=AUR eigen3" alt="Packaging status"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/fenics/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/fenics.svg?header=AUR fenics" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/elmerfem/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/elmerfem.svg?header=Arch elmerfem" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/elmerfem/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/elmerfem.svg?header=AUR elmerfem" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/z88/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/z88.svg?header=Arch z88" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/z88/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/z88.svg?header=AUR z88" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/orocos-kdl/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/orocos-kdl.svg?header=Arch orocos-kdl" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/orocos-kdl/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/orocos-kdl.svg?header=AUR orocos-kdl" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/python:matplotlib/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/python:matplotlib.svg?header=Arch matplotlib" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/python:matplotlib/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/python:matplotlib.svg?header=AUR matplotlib" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/freetype/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/freetype.svg?header=Arch freetype" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/freetype/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/freetype.svg?header=AUR freetype" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/graphviz/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/graphviz.svg?header=Arch graphviz" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/graphviz/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/graphviz.svg?header=AUR graphviz" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/swig/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/swig.svg?header=Arch swig" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/swig/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/swig.svg?header=AUR swig" alt="Packaging status"></a>
+    </td>
+  </tr>
+   <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/ifcopenshell/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/ifcopenshell.svg?header=Arch ifcopenshell" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/ifcopenshell/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/ifcopenshell.svg?header=AUR ifcopenshell" alt="Packaging status"></a>
+    </td>
+  </tr>
+   <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/libspnav/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/libspnav.svg?header=Arch libspnav" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/libspnav/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/libspnav.svg?header=AUR libspnav" alt="Packaging status"></a>
+    </td>
+  </tr>
+   <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/spnavcfg/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/spnavcfg.svg?header=Arch spnavcfg" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/spnavcfg/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/spnavcfg.svg?header=AUR spnavcfg" alt="Packaging status"></a>
+    </td>
+  </tr>
+   <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/libkdtree/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/libkdtree.svg?header=Arch libkdtree" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/libkdtree/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/libkdtree.svg?header=AUR libkdtree" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/zipios%2B%2B/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/zipios%2B%2B.svg?header=Arch zipios%2B%2B" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/zipios%2B%2B/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/zipios%2B%2B.svg?header=AUR zipios%2B%2B" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/zipios/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/zipios.svg?header=Arch zipios" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/zipios/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/zipios.svg?header=AUR zipios" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/python:scipy/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/python:scipy.svg?header=Arch scipy" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/python:scipy/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/python:scipy.svg?header=AUR scipy" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/python:numpy/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/python:numpy.svg?header=Arch numpy" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/python:numpy/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/python:numpy.svg?header=AUR numpy" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/opencv/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/opencv.svg?header=Arch opencv" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/opencv/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/opencv.svg?header=AUR opencv" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/gdal/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/gdal.svg?header=Arch gdal" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gdal/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/gdal.svg?header=AUR gdal" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/gdal-grass/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/gdal-grass.svg?header=Arch gdal-grass" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gdal-grass/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/gdal-grass.svg?header=AUR gdal-grass" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/opencamlib/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/opencamlib.svg?header=Arch opencamlib" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/opencamlib/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/opencamlib.svg?header=AUR opencamlib" alt="Packaging status"></a>
+    </td>
+  </tr>   <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/python:pycollada/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/python:pycollada.svg?header=Arch pycollada" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/python:pycollada/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/python:pycollada.svg?header=AUR pycollada" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/proj/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/proj.svg?header=Arch proj" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/proj/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/proj.svg?header=AUR proj" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/gts/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/gts.svg?header=Arch gts" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gts/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/gts.svg?header=AUR gts" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/expat/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/expat.svg?header=Arch expat" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/expat/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/expat.svg?header=AUR expat" alt="Packaging status"></a>
     </td>
   </tr>
 </table>
