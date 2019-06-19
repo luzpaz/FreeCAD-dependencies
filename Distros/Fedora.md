@@ -1,3 +1,8 @@
+## Current FreeCAD Deps for Fedora ##
+__Note:__  
+These are not the current deps that are used to build FreeCAD.  
+Right now this page just lists what dependencies are available in the Fedora package repositories.
+
 <table>
   <tr>
     <th></th>
