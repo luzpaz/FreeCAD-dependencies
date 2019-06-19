@@ -14,9 +14,9 @@ __Note:__
     </td>
   </tr>
   <tr>
-    <td><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/arch/qt5.svg?header=Qt5" alt="Arch package"></a>      
+    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/arch/qt5.svg?header=Qt5" alt="Arch package"></a>      
     </td>
-    <td><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/aur/qt5.svg?header=Qt5 AUR" alt="Arch package"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/aur/qt5.svg?header=Qt5 AUR" alt="Arch package"></a>
     </td>
   </tr>
   <tr>
@@ -428,6 +428,42 @@ __Note:__
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/teighafileconverter/versions">
       <img src="https://repology.org/badge/version-for-repo/aur/teighafileconverter.svg?header=AUR teighafileconverter" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/povray/versions"><img src="https://repology.org/badge/version-for-repo/arch/povray.svg?header=Arch povray" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/povray/versions"><img src="https://repology.org/badge/version-for-repo/aur/povray.svg?header=AUR povray" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/luxrender/versions"><img src="https://repology.org/badge/version-for-repo/arch/luxrender.svg?header=Arch luxrender" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/luxrender/versions"><img src="https://repology.org/badge/version-for-repo/aur/luxrender.svg?header=AUR luxrender" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/luxcorerender/versions"><img src="https://repology.org/badge/version-for-repo/arch/luxcorerender.svg?header=Arch luxcorerender" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/luxcorerender/versions"><img src="https://repology.org/badge/version-for-repo/aur/luxcorerender.svg?header=AUR luxcorerender" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/python:pysolar/versions"><img src="https://repology.org/badge/version-for-repo/arch/python:pysolar.svg?header=Arch python%3Apysolar" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/python:pysolar/versions"><img src="https://repology.org/badge/version-for-repo/aur/python:pysolar.svg?header=AUR python%3Apysolar" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/python:gitpython/versions"><img src="https://repology.org/badge/version-for-repo/arch/python:gitpython.svg?header=Arch python%3Agitpython" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/python:gitpython/versions"><img src="https://repology.org/badge/version-for-repo/aur/python:gitpython.svg?header=AUR python%3Agitpython" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/pcl-pointclouds/versions"><img src="https://repology.org/badge/version-for-repo/arch/pcl-pointclouds.svg?header=Arch pcl-pointclouds" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/pcl-pointclouds/versions"><img src="https://repology.org/badge/version-for-repo/aur/pcl-pointclouds.svg?header=AUR pcl-pointclouds" alt="Packaging status"></a>
     </td>
   </tr>
 </table>
