@@ -1,6 +1,7 @@
 ## Current FreeCAD Deps for Arch ##
 __Note:__  
-*some of the entries may be empty due to the packages being either named differently on certain distro (qt5-base rather than qt5) or that the package exists in the Arch AUR*
+These are not the current deps that are used to build FreeCAD.  
+Right now this page just lists what dependencies are available in the Fedora package repositories.
 
 <table>
   <tr>
