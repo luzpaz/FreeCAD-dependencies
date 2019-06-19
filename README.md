@@ -133,7 +133,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       opencv<br/>
       gdal<br/>
       gdal-grass<br/>
-      orcos-kdl<br/>
+      orocos-kdl<br/>
       python:matplotlib<br/>
       hdf5<br/>
       freetype<br/>
@@ -207,7 +207,7 @@ ccache
 opencv  
 gdal  
 gdal-grass  
-orcos-kdl  
+orocos-kdl  
 python:matplotlib  
 hdf5  
 freetype
@@ -368,7 +368,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/orocos-kdl/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/orocos-kdl.svg?header=orcos-kdl" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/orocos-kdl.svg?header=orocos-kdl" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/python:matplotlib/versions">
       <img src="https://repology.org/badge/vertical-allrepos/python:matplotlib.svg?header=python%3Amatplotlib" alt="Packaging status" align="right"></a>
