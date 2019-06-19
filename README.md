@@ -484,7 +484,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/gts/versions">
       <img src="https://repology.org/badge/vertical-allrepos/gts.svg?header=gts" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/pysolar/versions">
+    <td valign="top"><a href="https://repology.org/metapackage/python:pysolar/versions">
       <img src="https://repology.org/badge/vertical-allrepos/python:pysolar.svg?header=python%3Apysolar" alt="Packaging status" align="right"></a>
     </td>
   </tr>
