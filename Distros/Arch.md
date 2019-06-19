@@ -8,26 +8,26 @@ __Note:__
     <th>AUR</th>
   </tr>
   <tr>
-    <td>
-      <a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/arch/qt5.svg?header=Qt5" alt="Arch package"></a>      
+    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/arch/python3.svg?header=Arch python3" alt="Packaging status"></a>
     </td>
-    <td>
-      <a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/aur/qt5.svg?header=Qt5 AUR" alt="Arch package"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/aur/python3.svg?header=AUR python3" alt="Packaging status"></a>
     </td>
   </tr>
   <tr>
-    <td valign="top" ><a href="https://repology.org/metapackage/python:shiboken2/versions">
-      <img src="https://repology.org/badge/version-for-repo/arch/python:shiboken2.svg?header=python%3Ashiboken2" alt="Packaging status"></a>
+    <td><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/arch/qt5.svg?header=Qt5" alt="Arch package"></a>      
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/python:shiboken2/versions">
-      <img src="https://repology.org/badge/version-for-repo/aur/python:shiboken2.svg?header=python%3Ashiboken2" alt="Packaging status"></a>
+    <td><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/aur/qt5.svg?header=Qt5 AUR" alt="Arch package"></a>
+    </td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/python:pyside2/versions">
-      <img src="https://repology.org/badge/version-for-repo/arch/python:pyside2.svg?header=python%3Apyside2" alt="Packaging status"></a>
+    <td valign="top" ><a href="https://repology.org/metapackage/python:shiboken2/versions"><img src="https://repology.org/badge/version-for-repo/arch/python:shiboken2.svg?header=python%3Ashiboken2" alt="Packaging status"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/python:pyside2/versions">
-      <img src="https://repology.org/badge/version-for-repo/aur/python:pyside2.svg?header=python%3Apyside2" alt="Packaging status"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/python:shiboken2/versions"><img src="https://repology.org/badge/version-for-repo/aur/python:shiboken2.svg?header=python%3Ashiboken2" alt="Packaging status"></a>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/python:pyside2/versions"><img src="https://repology.org/badge/version-for-repo/arch/python:pyside2.svg?header=python%3Apyside2" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/python:pyside2/versions"><img src="https://repology.org/badge/version-for-repo/aur/python:pyside2.svg?header=python%3Apyside2" alt="Packaging status"></a>
     </td>
   </tr>
   <tr>
@@ -381,7 +381,8 @@ __Note:__
     <td valign="top"><a href="https://repology.org/metapackage/opencamlib/versions">
       <img src="https://repology.org/badge/version-for-repo/aur/opencamlib.svg?header=AUR opencamlib" alt="Packaging status"></a>
     </td>
-  </tr>   <tr>
+  </tr>   
+  <tr>
     <td valign="top"><a href="https://repology.org/metapackage/python:pycollada/versions">
       <img src="https://repology.org/badge/version-for-repo/arch/python:pycollada.svg?header=Arch pycollada" alt="Packaging status"></a>
     </td>
@@ -411,6 +412,22 @@ __Note:__
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/expat/versions">
       <img src="https://repology.org/badge/version-for-repo/aur/expat.svg?header=AUR expat" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/oda-file-converter/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/oda-file-converter.svg?header=Arch oda-file-converter" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/oda-file-converter/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/oda-file-converter.svg?header=AUR oda-file-converter" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/teighafileconverter/versions">
+      <img src="https://repology.org/badge/version-for-repo/arch/teighafileconverter.svg?header=Arch teighafileconverter" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/teighafileconverter/versions">
+      <img src="https://repology.org/badge/version-for-repo/aur/teighafileconverter.svg?header=AUR teighafileconverter" alt="Packaging status"></a>
     </td>
   </tr>
 </table>
