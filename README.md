@@ -503,3 +503,14 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
   </tr>
 </table>
+
+-------
+
+
+<table>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/doxygen/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/doxygen.svg?header=pcl-pointclouds" alt="Packaging status"></a>
+    </td>
+  </tr>
+</table>
