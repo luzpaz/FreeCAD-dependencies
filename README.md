@@ -154,10 +154,11 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       gts<br/>
       proj<br/>
       pcl-pointclouds<br/>
-      python:gitpython</br>
-      expat</br>
-      soqt</br>
-      netcdf</br>
+      python:gitpython<br/>
+      expat<br/>
+      soqt<br/>
+      netcdf<br/>
+      doxygen<br/>
     </td>
     <td align="left" valign="top">
       calculix<br/>
@@ -166,6 +167,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       openfoam<br/>
       gmsh<br/>
       z88<br/>
+      paraview<br/>
     </td>
   </tr>
 </table>
@@ -233,6 +235,8 @@ python:gitpython
 expat  
 soqt  
 netcdf  
+doxygen
+paraview  
 ```
 
 </details>
@@ -510,7 +514,15 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/doxygen/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/doxygen.svg?header=pcl-pointclouds" alt="Packaging status"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/doxygen.svg?header=doxygen" alt="Packaging status"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/paraview/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/paraview.svg?header=paraview" alt="Packaging status"></a>
     </td>
   </tr>
 </table>
