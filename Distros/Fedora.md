@@ -18,9 +18,9 @@ Right now this page just lists what dependencies are available in the Fedora pac
   </tr>
   <tr>
     <td align="center"><b>qt5</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/fedora_30/qt5.svg?header=Qt5" alt="fedora_30 package"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/fedora_30/qt5.svg?header=Qt5" alt="Packaging status"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/fedora_rawhide/qt5.svg?header=Qt5 Fedora Rawhide" alt="fedora_30 package"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/fedora_rawhide/qt5.svg?header=Qt5 Fedora Rawhide" alt="Packaging status"></a>
     </td>
   </tr>
   <tr>
