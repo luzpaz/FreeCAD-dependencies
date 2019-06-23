@@ -528,5 +528,19 @@ Right now this page just lists what dependencies are available in the Fedora pac
     <td valign="top"><a href="https://repology.org/metapackage/pcl-pointclouds/versions"><img src="https://repology.org/badge/version-for-repo/aur/pcl-pointclouds.svg?header=AUR pcl-pointclouds" alt="Packaging status"></a>
     </td>
   </tr>
+  <tr>
+    <td align="center"><b>doxygen</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/doxygen/versions"><img src="https://repology.org/badge/version-for-repo/arch/doxygen.svg?header=Arch doxygen" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/doxygen/versions"><img src="https://repology.org/badge/version-for-repo/aur/doxygen.svg?header=AUR doxygen" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+  <td align="center"><b>paraview</b></td>
+  <td valign="top"><a href="https://repology.org/metapackage/paraview/versions"><img src="https://repology.org/badge/version-for-repo/arch/paraview.svg?header=Arch paraview" alt="Packaging status"></a>
+  </td>
+  <td valign="top"><a href="https://repology.org/metapackage/paraview/versions"><img src="https://repology.org/badge/version-for-repo/aur/paraview.svg?header=AUR paraview" alt="Packaging status"></a>
+  </td>
+</tr>
 </table>
 
