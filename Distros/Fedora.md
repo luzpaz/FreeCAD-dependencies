@@ -528,4 +528,18 @@ Right now this page just lists what dependencies are available in the Fedora pac
     <td valign="top"><a href="https://repology.org/metapackage/pcl-pointclouds/versions"><img src="https://repology.org/badge/version-for-repo/fedora_rawhide/pcl-pointclouds.svg?header=Fedora Rawhide pcl-pointclouds" alt="Packaging status"></a>
     </td>
   </tr>
+  <tr>
+    <td align="center"><b>doxygen</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/doxygen/versions"><img src="https://repology.org/badge/version-for-repo/fedora_30/doxygen.svg?header=Fedora 30 python%3Agitpython" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/doxygen/versions"><img src="https://repology.org/badge/version-for-repo/fedora_rawhide/doxygen.svg?header=Fedora Rawhide python%3Agitpython" alt="Packaging status"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>paraview</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/paraview/versions"><img src="https://repology.org/badge/version-for-repo/fedora_30/paraview.svg?header=Fedora 30 paraview" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/paraview/versions"><img src="https://repology.org/badge/version-for-repo/fedora_rawhide/paraview.svg?header=Fedora Rawhide paraview" alt="Packaging status"></a>
+    </td>
+  </tr>
 </table>
