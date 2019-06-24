@@ -159,6 +159,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       soqt<br/>
       netcdf<br/>
       doxygen<br/>
+      grpc<br/>
     </td>
     <td align="left" valign="top">
       calculix<br/>
@@ -237,6 +238,7 @@ soqt
 netcdf  
 doxygen
 paraview  
+grpc
 ```
 
 </details>
