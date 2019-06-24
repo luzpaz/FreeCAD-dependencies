@@ -160,6 +160,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       netcdf<br/>
       doxygen<br/>
       grpc<br/>
+      ifcplusplus<br/>
     </td>
     <td align="left" valign="top">
       calculix<br/>
@@ -238,7 +239,8 @@ soqt
 netcdf  
 doxygen
 paraview  
-grpc
+grpc  
+ifcplusplus  
 ```
 
 </details>
@@ -528,6 +530,9 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/grpc/versions">
       <img src="https://repology.org/badge/vertical-allrepos/grpc.svg?header=grpc" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/ifcplusplus/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/ifcplusplus.svg?header=ifcplusplus" alt="Packaging status"></a>
     </td>
   </tr>
 </table>
