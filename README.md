@@ -161,6 +161,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       doxygen<br/>
       grpc<br/>
       ifcplusplus<br/>
+      libredwg
     </td>
     <td align="left" valign="top">
       calculix<br/>
@@ -241,6 +242,7 @@ doxygen
 paraview  
 grpc  
 ifcplusplus  
+libredwg
 ```
 
 </details>
@@ -533,6 +535,9 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/ifcplusplus/versions">
       <img src="https://repology.org/badge/vertical-allrepos/ifcplusplus.svg?header=ifcplusplus" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/libredwg/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/libredwg.svg?header=libredwg" alt="Packaging status"></a>
     </td>
   </tr>
 </table>
