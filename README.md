@@ -508,21 +508,33 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   </tr>
 </table>
 
--------
-
 
 <table>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/doxygen/versions">
       <img src="https://repology.org/badge/vertical-allrepos/doxygen.svg?header=doxygen" alt="Packaging status"></a>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td valign="top"><a href="https://repology.org/metapackage/paraview/versions">
       <img src="https://repology.org/badge/vertical-allrepos/paraview.svg?header=paraview" alt="Packaging status"></a>
     </td>
   </tr>
 </table>
+
+------
+
+<table>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/grpc/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/grpc.svg?header=grpc" alt="Packaging status"></a>
+    </td>
+  </tr>
+</table>
+
+
+
+<!--
+<table>
+  <tr>
+  </tr>
+</table>
+-->
