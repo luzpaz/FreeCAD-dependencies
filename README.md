@@ -1,7 +1,10 @@
 ## Tracking FreeCAD and Dependencies
 This repository's function is to track FreeCAD and it's 3rd party dependencies in the package ecosystem
 
-## Hot to bump versions or request new packages
+### Per Platform/Disto
+See [Distros/](Distros/) directory to view all supported FC deps per specific platform/distro. Not platforms/distros are available yet (this depends firstly if they are available in Repology and when I have time to create them).
+
+## How to bump versions or request new packages
 <details>
   <summary><b>Expand this section in order to view it</b></summary>
 
