@@ -1,7 +1,7 @@
 ## Current FreeCAD Deps for Arch ##
 __Note:__  
 These are not the current deps that are used to build FreeCAD.  
-Right now this page just lists what dependencies are available in the Fedora package repositories.
+Right now this page just lists what dependencies are available in the Arch and AUR package repositories.
 
 <table>
   <tr>
@@ -543,4 +543,3 @@ Right now this page just lists what dependencies are available in the Fedora pac
   </td>
 </tr>
 </table>
-
