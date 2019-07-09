@@ -549,10 +549,8 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 
 <table>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/python:pyflow
-/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python:pyflow
-.svg?header=python%3Apyflow" alt="Packaging status"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/python:pyflow/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/python:pyflow.svg?header=python%3Apyflow" alt="Packaging status"></a>
     </td>
   </tr>
 </table>
