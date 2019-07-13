@@ -415,7 +415,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
       <img src="https://repology.org/badge/vertical-allrepos/spnavcfg.svg?header=spnavcfg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/libkdtree++/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/libkdtree++.svg?header=libkdtree++" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/libkdtree++.svg?header=libkdtree%2B%2B" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
@@ -423,7 +423,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 <table>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/zipios++/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/zipios++.svg?header=zipios++" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/zipios++.svg?header=zipios%2B%2B" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/zipios/versions">
       <img src="https://repology.org/badge/vertical-allrepos/zipios.svg?header=zipios" alt="Packaging status" align="right"></a>
