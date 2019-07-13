@@ -149,7 +149,6 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       oda-file-converter<br/>
       teighafileconverter<br/>
       luxcorerender<br/>
-      luxrender<br/>
       povray<br/>
       opencamlib<br/>
       python:pycollada<br/>
@@ -230,7 +229,6 @@ libkdtree++
 oda-file-converter  
 teighafileconverter  
 luxcorerender  
-luxrender  
 povray  
 opencamlib  
 python:pycollada  
@@ -463,16 +461,11 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/oda-file-converter/versions">
       <img src="https://repology.org/badge/vertical-allrepos/oda-file-converter.svg?header=oda-file-converter" alt="Packaging status" align="right"></a>
     </td>
-        <td valign="top"><a href="https://repology.org/metapackage/teighafileconverter/versions">
+    <td valign="top"><a href="https://repology.org/metapackage/teighafileconverter/versions">
       <img src="https://repology.org/badge/vertical-allrepos/teighafileconverter.svg?header=teighafileconverter" alt="Packaging status" align="right"></a>
     </td>
-    </td>
-        <td valign="top"><a href="https://repology.org/metapackage/luxcorerender/versions">
+    <td valign="top"><a href="https://repology.org/metapackage/luxcorerender/versions">
       <img src="https://repology.org/badge/vertical-allrepos/luxcorerender.svg?header=luxcorerender" alt="Packaging status" align="right"></a>
-    </td>
-    </td>
-        <td valign="top"><a href="https://repology.org/metapackage/luxrender/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/luxrender.svg?header=luxrender" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/povray/versions">
       <img src="https://repology.org/badge/vertical-allrepos/povray.svg?header=povray" alt="Packaging status" align="right"></a>
