@@ -117,7 +117,6 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       python:pyside2<br/>
       opencascade<br/>
       opencascade-oce<br/>
-      salome-smesh<br/>
       smesh<br/>
       med<br/>
       coin3d<br/>
@@ -189,7 +188,6 @@ python:shiboken2
 python:pyside2  
 opencascade  
 opencascade-oce  
-salome-smesh  
 smesh  
 med  
 coin3d  
@@ -274,9 +272,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/opencascade-oce/versions">
       <img src="https://repology.org/badge/vertical-allrepos/opencascade-oce.svg?header=opencascade-oce" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/salome-smesh/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/salome-smesh.svg?header=salome-smesh" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/smesh/versions">
       <img src="https://repology.org/badge/vertical-allrepos/smesh.svg?header=smesh" alt="Packaging status" align="right"></a>
