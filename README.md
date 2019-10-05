@@ -122,7 +122,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       coin3d<br/>
       simage<br/>
       boost<br/>
-      eigen3<br/>
+      eigen<br/>
       python:pivy<br/>
       xerces-c<br/>
       zlib<br/>
@@ -193,7 +193,7 @@ med
 coin3d  
 simage  
 boost  
-eigen3  
+eigen  
 python:pivy  
 xerces-c  
 cmake  
@@ -316,8 +316,8 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/hdf5/versions">
       <img src="https://repology.org/badge/vertical-allrepos/hdf5.svg?header=hdf5" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/eigen3/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/eigen3.svg?header=eigen3" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/eigen/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/eigen.svg?header=eigen" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/xerces-c/versions">
       <img src="https://repology.org/badge/vertical-allrepos/xerces-c.svg?header=xerces-c" alt="Packaging status" align="right"></a>
