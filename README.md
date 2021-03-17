@@ -163,7 +163,8 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       grpc<br/>
       ifcplusplus<br/>
       libredwg<br/>
-      python:pyflow
+      python:pyflow<br/>
+      qhull
     </td>
     <td align="left" valign="top">
       calculix<br/>
@@ -244,6 +245,7 @@ grpc
 ifcplusplus  
 libredwg  
 python:pyflow  
+qhull  
 ```
 
 </details>
@@ -539,6 +541,9 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/python:pyflow/versions">
       <img src="https://repology.org/badge/vertical-allrepos/python:pyflow.svg?header=python%3Apyflow" alt="Packaging status"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/qhull/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/qhull.svg?header=qhull" alt="Packaging status"></a>
     </td>
   </tr>
 </table>
