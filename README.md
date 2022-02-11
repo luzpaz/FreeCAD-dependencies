@@ -167,7 +167,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       qhull
     </td>
     <td align="left" valign="top">
-      calculix<br/>
+      calculix-ccx<br/>
       elmerfem<br/>
       fenics<br/>
       openfoam<br/>
@@ -204,7 +204,7 @@ vtk
 netgen-mesher
 python:scipy  
 python:numpy  
-calculix  
+calculix-ccx  
 elmerfem  
 fenics  
 openfoam  
@@ -349,8 +349,8 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/vtk/versions">
       <img src="https://repology.org/badge/vertical-allrepos/vtk.svg?header=vtk" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/calculix.svg?header=calculix" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix-ccx/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/calculix-ccx.svg?header=calculix" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/gmsh/versions">
       <img src="https://repology.org/badge/vertical-allrepos/gmsh.svg?header=gmsh" alt="Packaging status" align="right"></a>
