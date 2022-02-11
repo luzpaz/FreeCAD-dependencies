@@ -287,7 +287,7 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
       <img src="https://repology.org/badge/vertical-allrepos/med.svg?header=med" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/python/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python3.svg?header=python" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/python.svg?header=python" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/boost/versions">
       <img src="https://repology.org/badge/vertical-allrepos/boost.svg?header=boost" alt="Packaging status" align="right"></a>
