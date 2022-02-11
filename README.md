@@ -111,7 +111,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
     </td>
     <td align="left" valign="top">
       cmake<br/>
-      python3<br/>
+      python<br/>
       qt<br/>
       python:shiboken2<br/>
       python:pyside2<br/>
@@ -183,7 +183,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
   <summary>Expand this block to view the package names in one long list</summary>
 
 ```
-python3  
+python  
 qt  
 python:shiboken2  
 python:pyside2  
@@ -286,8 +286,8 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/med/versions">
       <img src="https://repology.org/badge/vertical-allrepos/med.svg?header=med" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python3.svg?header=python3" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/python3.svg?header=python" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/boost/versions">
       <img src="https://repology.org/badge/vertical-allrepos/boost.svg?header=boost" alt="Packaging status" align="right"></a>
