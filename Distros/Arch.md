@@ -10,14 +10,14 @@ Right now this page just lists what dependencies are available in the Arch and A
     <th>AUR</th>
   </tr>
   <tr>
-    <td align="center"><b>python3</b></td>
+    <td align="center"><b>python</b></td>
     <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/arch/python.svg?header=Arch python" alt="Packaging status"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/aur/python.svg?header=AUR python" alt="Packaging status"></a>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>qt5</b></td>
+    <td align="center"><b>Qt</b></td>
     <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/arch/qt.svg?header=Qt" alt="Arch package"></a>      
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/aur/qt.svg?header=Qt AUR" alt="Arch package"></a>

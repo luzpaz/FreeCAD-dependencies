@@ -11,14 +11,14 @@ Right now this page just lists what dependencies are available in the Nixpkgs pa
     <th><b>nix_unstable</b></th>
   </tr>
   <tr>
-    <td><b>python3</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/nix_stable/python3.svg?header=nix_stable python3" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/nix_unstable/python3.svg?header=nix_unstable python3" alt="Packaging status"></a></td>
+    <td><b>python</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/nix_stable/python.svg?header=nix_stable python" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/nix_unstable/python.svg?header=nix_unstable python" alt="Packaging status"></a></td>
   </tr>
   <tr>
-    <td><b>qt5</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/nix_stable/qt5.svg?header=nix_stable qt5" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/nix_unstable/qt5.svg?header=nix_unstable qt5" alt="Packaging status"></a></td>
+    <td><b>Qt</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/nix_stable/qt.svg?header=nix_stable Qt" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/nix_unstable/qt.svg?header=nix_unstable Qt" alt="Packaging status"></a></td>
   </tr>
   <tr>
     <td><b>python:shiboken2</b></td>

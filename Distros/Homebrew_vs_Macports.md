@@ -11,14 +11,14 @@ Right now this page just lists what dependencies available for comparing Homebre
     <th><b>macports</b></th>
  </tr>
   <tr>
-    <td><b>python3</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/homebrew/python3.svg?header=homebrew python3" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/macports/python3.svg?header=macports python3" alt="Packaging status"></a></td>
+    <td><b>python</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/homebrew/python.svg?header=homebrew python" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/macports/python.svg?header=macports python" alt="Packaging status"></a></td>
   </tr>
   <tr>
-    <td><b>qt5</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/homebrew/qt5.svg?header=homebrew qt5" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/macports/qt5.svg?header=macports qt5" alt="Packaging status"></a></td>
+    <td><b>Qt</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/homebrew/qt.svg?header=homebrew Qt" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/macports/qt.svg?header=macports Qt" alt="Packaging status"></a></td>
   </tr>
   <tr>
     <td><b>python:shiboken2</b></td>

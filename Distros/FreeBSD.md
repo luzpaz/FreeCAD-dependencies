@@ -9,12 +9,12 @@ Right now this page just lists what dependencies are available in the FreeBSD po
     <th><b>freebsd</b></th>
   </tr>
   <tr>
-    <td><b>python3</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/freebsd/python3.svg?header=freebsd python3" alt="Packaging status"></a></td>
+    <td><b>python</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/freebsd/python.svg?header=freebsd python" alt="Packaging status"></a></td>
   </tr>
   <tr>
-    <td><b>qt5</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/freebsd/qt5.svg?header=freebsd qt5" alt="Packaging status"></a></td>
+    <td><b>Qt</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/freebsd/qt.svg?header=freebsd Qt" alt="Packaging status"></a></td>
   </tr>
   <tr>
     <td><b>python:shiboken2</b></td>
@@ -26,11 +26,7 @@ Right now this page just lists what dependencies are available in the FreeBSD po
   </tr>
   <tr>
     <td><b>opencascade</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/opencascade/versions"><img src="https://repology.org/badge/version-for-repo/freebsd/opencascade.svg?header=freebsd opencascade" alt="Packaging status"></a></td>
-  </tr>
-  <tr>
-    <td><b>opencascade-oce</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/opencascade-oce/versions"><img src="https://repology.org/badge/version-for-repo/freebsd/opencascade-oce.svg?header=freebsd opencascade-oce" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/opencascade-occt/versions"><img src="https://repology.org/badge/version-for-repo/freebsd/opencascade-occt.svg?header=freebsd opencascade" alt="Packaging status"></a></td>
   </tr>
   <tr>
     <td><b>salome-smesh</b></td>

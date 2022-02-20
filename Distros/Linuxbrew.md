@@ -9,12 +9,12 @@ Right now this page just lists what dependencies are available in the Linuxbrew 
     <th><b>linuxbrew</b></th>
  </tr>
   <tr>
-    <td><b>python3</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/linuxbrew/python3.svg?header=linuxbrew python3" alt="Packaging status"></a></td>
+    <td><b>python</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/linuxbrew/python.svg?header=linuxbrew python" alt="Packaging status"></a></td>
   </tr>
   <tr>
-    <td><b>qt5</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/linuxbrew/qt5.svg?header=linuxbrew qt5" alt="Packaging status"></a></td>
+    <td><b>Qt</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/linuxbrew/qt.svg?header=linuxbrew Qt" alt="Packaging status"></a></td>
   </tr>
   <tr>
     <td><b>python:shiboken2</b></td>
@@ -25,12 +25,8 @@ Right now this page just lists what dependencies are available in the Linuxbrew 
     <td valign="top"><a href="https://repology.org/metapackage/python:pyside2/versions"><img src="https://repology.org/badge/version-for-repo/linuxbrew/python:pyside2.svg?header=linuxbrew python:pyside2" alt="Packaging status"></a></td>
   </tr>
   <tr>
-    <td><b>opencascade</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/opencascade/versions"><img src="https://repology.org/badge/version-for-repo/linuxbrew/opencascade.svg?header=linuxbrew opencascade" alt="Packaging status"></a></td>
-  </tr>
-  <tr>
-    <td><b>opencascade-oce</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/opencascade-oce/versions"><img src="https://repology.org/badge/version-for-repo/linuxbrew/opencascade-oce.svg?header=linuxbrew opencascade-oce" alt="Packaging status"></a></td>
+    <td><b>opencascade-occt</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/opencascade-occt/versions"><img src="https://repology.org/badge/version-for-repo/linuxbrew/opencascade-occt.svg?header=linuxbrew opencascade-occt" alt="Packaging status"></a></td>
   </tr>
   <tr>
     <td><b>salome-smesh</b></td>

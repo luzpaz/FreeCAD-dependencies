@@ -19,18 +19,18 @@ The Arch AUR repo was also added in order to illustrate that packages not availa
     <th><b>Arch AUR</b></th
  </tr>
   <tr>
-    <td><b>python3</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_stable/python3.svg?header=manjaro_stable python3" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_testing/python3.svg?header=manjaro_testing python3" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_unstable/python3.svg?header=manjaro_unstable python3" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/aur/python3.svg?header=aur python3" alt="Packaging status"></a></td>
+    <td><b>python</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_stable/python.svg?header=manjaro_stable python" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_testing/python.svg?header=manjaro_testing python" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_unstable/python.svg?header=manjaro_unstable python" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/aur/python.svg?header=aur python" alt="Packaging status"></a></td>
   </tr>
   <tr>
-    <td><b>qt5</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_stable/qt5.svg?header=manjaro_stable qt5" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_testing/qt5.svg?header=manjaro_testing qt5" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_unstable/qt5.svg?header=manjaro_unstable qt5" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/aur/qt5.svg?header=aur qt5" alt="Packaging status"></a></td>
+    <td><b>Qt</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_stable/qt.svg?header=manjaro_stable Qt" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_testing/qt.svg?header=manjaro_testing Qt" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_unstable/qt.svg?header=manjaro_unstable Qt" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/aur/qt.svg?header=aur Qt" alt="Packaging status"></a></td>
   </tr>
   <tr>
     <td><b>python:shiboken2</b></td>

@@ -5,14 +5,14 @@
     <th><b>mageia_cauldron</b></th>    
  </tr>
   <tr>
-    <td><b>python3</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/mageia_7/python3.svg?header=mageia_7 python3" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/mageia_cauldron/python3.svg?header=mageia_cauldron python3" alt="Packaging status"></a></td>
+    <td><b>python</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/mageia_7/python.svg?header=mageia_7 python" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/mageia_cauldron/python.svg?header=mageia_cauldron python" alt="Packaging status"></a></td>
   </tr>
   <tr>
-    <td><b>qt5</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/mageia_7/qt5.svg?header=mageia_7 qt5" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/mageia_cauldron/qt5.svg?header=mageia_cauldron qt5" alt="Packaging status"></a></td>
+    <td><b>Qt</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/mageia_7/qt.svg?header=mageia_7 Qt" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/mageia_cauldron/qt.svg?header=mageia_cauldron Qt" alt="Packaging status"></a></td>
   </tr>
   <tr>
     <td><b>python:shiboken2</b></td>

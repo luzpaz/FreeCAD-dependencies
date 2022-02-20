@@ -10,17 +10,17 @@ Right now this page just lists what dependencies are available in the Fedora pac
     <th>Fedora Rawhide</th>
   </tr>
   <tr>
-    <td align="center"><b>python3</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/fedora_30/python3.svg?header=Fedora 30 python3" alt="Packaging status"></a>
+    <td align="center"><b>python</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/fedora_30/python.svg?header=Fedora 30 python" alt="Packaging status"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/fedora_rawhide/python3.svg?header=Fedora Rawhide python3" alt="Packaging status"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/fedora_rawhide/python.svg?header=Fedora Rawhide python" alt="Packaging status"></a>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>qt5</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/fedora_30/qt5.svg?header=Qt5" alt="Packaging status"></a>
+    <td align="center"><b>Qt</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/fedora_30/qt.svg?header=Qt" alt="Packaging status"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/fedora_rawhide/qt5.svg?header=Qt5 Fedora Rawhide" alt="Packaging status"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/fedora_rawhide/qt.svg?header=Qt Fedora Rawhide" alt="Packaging status"></a>
     </td>
   </tr>
   <tr>
@@ -37,30 +37,12 @@ Right now this page just lists what dependencies are available in the Fedora pac
     </td>
   </tr>
   <tr>
-    <td align="center"><b>opencascade</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/opencascade/versions">
-      <img src="https://repology.org/badge/version-for-repo/fedora_30/opencascade.svg?header=Fedora 30 opencascade" alt="Packaging status"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/opencascade/versions">
-      <img src="https://repology.org/badge/version-for-repo/fedora_rawhide/opencascade.svg?header=Fedora Rawhide opencascade" alt="Packaging status"></a>
-    </td>
-  </tr>
-  <tr>
     <td align="center"><b>opencascade-occt</b></td>
     <td valign="top"><a href="https://repology.org/metapackage/opencascade-occt/versions">
-      <img src="https://repology.org/badge/version-for-repo/fedora_30/opencascade-oce.svg?header=Fedora 30 occt" alt="Packaging status"></a>
+      <img src="https://repology.org/badge/version-for-repo/fedora_30/opencascade-occt.svg?header=Fedora 30 occt" alt="Packaging status"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/opencascade-occt/versions">
-      <img src="https://repology.org/badge/version-for-repo/fedora_rawhide/opencascade-oce.svg?header=Fedora Rawhide occt" alt="Packaging status"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>opencascade-oce</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/opencascade-oce/versions">
-      <img src="https://repology.org/badge/version-for-repo/fedora_30/opencascade-oce.svg?header=Fedora 30 oce" alt="Packaging status"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/opencascade-oce/versions">
-      <img src="https://repology.org/badge/version-for-repo/fedora_rawhide/opencascade-oce.svg?header=Fedora Rawhide oce" alt="Packaging status"></a>
+      <img src="https://repology.org/badge/version-for-repo/fedora_rawhide/opencascade-occt.svg?header=Fedora Rawhide occt" alt="Packaging status"></a>
     </td>
   </tr>
   <tr>

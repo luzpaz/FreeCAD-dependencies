@@ -10,12 +10,12 @@ Right now this page just lists what dependencies are available in the Chocolatey
     <th><b>chocolatey</b></th>
  </tr>
   <tr>
-    <td><b>python3</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/chocolatey/python3.svg?header=chocolatey python3" alt="Packaging status"></a></td>
+    <td><b>python</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/chocolatey/python.svg?header=chocolatey python" alt="Packaging status"></a></td>
   </tr>
   <tr>
-    <td><b>qt5</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/chocolatey/qt5.svg?header=chocolatey qt5" alt="Packaging status"></a></td>
+    <td><b>Qt</b></td>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/chocolatey/qt.svg?header=chocolatey Qt" alt="Packaging status"></a></td>
   </tr>
   <tr>
     <td><b>python:shiboken2</b></td>
@@ -27,11 +27,7 @@ Right now this page just lists what dependencies are available in the Chocolatey
   </tr>
   <tr>
     <td><b>opencascade</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/opencascade/versions"><img src="https://repology.org/badge/version-for-repo/chocolatey/opencascade.svg?header=chocolatey opencascade" alt="Packaging status"></a></td>
-  </tr>
-  <tr>
-    <td><b>opencascade-oce</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/opencascade-oce/versions"><img src="https://repology.org/badge/version-for-repo/chocolatey/opencascade-oce.svg?header=chocolatey opencascade-oce" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/opencascade-occt/versions"><img src="https://repology.org/badge/version-for-repo/chocolatey/opencascade-occt.svg?header=chocolatey opencascade" alt="Packaging status"></a></td>
   </tr>
   <tr>
     <td><b>salome-smesh</b></td>
