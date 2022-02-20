@@ -8,7 +8,10 @@ See [Distros/](Distros/) directory to view all supported FC deps per specific pl
 
 <details>
   <summary><b>Expand to see Conda badges</b></summary>
-# FreeCAD Dependency Packaging Status
+
+##### FreeCAD dependencies status on Conda
+
+**Note** This list copied from https://github.com/FreeCAD/FreeCAD_Conda
 
 | Name | Downloads | Version | Platforms | Last Update | License |
 | --- | --- | --- | --- | --- | --- |
