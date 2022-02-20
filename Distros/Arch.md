@@ -11,16 +11,16 @@ Right now this page just lists what dependencies are available in the Arch and A
   </tr>
   <tr>
     <td align="center"><b>python3</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/arch/python3.svg?header=Arch python3" alt="Packaging status"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/arch/python.svg?header=Arch python" alt="Packaging status"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/python3/versions"><img src="https://repology.org/badge/version-for-repo/aur/python3.svg?header=AUR python3" alt="Packaging status"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions"><img src="https://repology.org/badge/version-for-repo/aur/python.svg?header=AUR python" alt="Packaging status"></a>
     </td>
   </tr>
   <tr>
     <td align="center"><b>qt5</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/arch/qt5.svg?header=Qt5" alt="Arch package"></a>      
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/arch/qt.svg?header=Qt" alt="Arch package"></a>      
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/qt5/versions"><img src="https://repology.org/badge/version-for-repo/aur/qt5.svg?header=Qt5 AUR" alt="Arch package"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/qt/versions"><img src="https://repology.org/badge/version-for-repo/aur/qt.svg?header=Qt AUR" alt="Arch package"></a>
     </td>
   </tr>
   <tr>
@@ -37,30 +37,12 @@ Right now this page just lists what dependencies are available in the Arch and A
     </td>
   </tr>
   <tr>
-    <td align="center"><b>opencascade</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/opencascade/versions">
-      <img src="https://repology.org/badge/version-for-repo/arch/opencascade.svg?header=Arch opencascade" alt="Packaging status"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/opencascade/versions">
-      <img src="https://repology.org/badge/version-for-repo/aur/opencascade.svg?header=AUR opencascade" alt="Packaging status"></a>
-    </td>
-  </tr>
-  <tr>
     <td align="center"><b>opencascade-occt</b></td>
     <td valign="top"><a href="https://repology.org/metapackage/opencascade-occt/versions">
-      <img src="https://repology.org/badge/version-for-repo/arch/opencascade-oce.svg?header=Arch occt" alt="Packaging status"></a>
+      <img src="https://repology.org/badge/version-for-repo/arch/opencascade-occt.svg?header=Arch OCCT" alt="Packaging status"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/opencascade-occt/versions">
-      <img src="https://repology.org/badge/version-for-repo/aur/opencascade-oce.svg?header=AUR occt" alt="Packaging status"></a>
-    </td>  
-  </tr>
-  <tr>
-    <td align="center"><b>opencascade-oce</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/opencascade-oce/versions">
-      <img src="https://repology.org/badge/version-for-repo/arch/opencascade-oce.svg?header=Arch oce" alt="Packaging status"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/opencascade-oce/versions">
-      <img src="https://repology.org/badge/version-for-repo/aur/opencascade-oce.svg?header=AUR oce" alt="Packaging status"></a>
+      <img src="https://repology.org/badge/version-for-repo/arch/opencascade-occt.svg?header=AUR OCCT" alt="Packaging status"></a>
     </td>  
   </tr>
   <tr>
