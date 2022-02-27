@@ -302,6 +302,9 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 
 <table>
   <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/python/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/python.svg?header=python" alt="Packaging status" align="right"></a>
+    </td>
     <td valign="top"><a href="https://repology.org/metapackage/opencascade-occt/versions">
       <img src="https://repology.org/badge/vertical-allrepos/opencascade-occt.svg?header=opencascade" alt="Packaging status" align="right"></a>
     </td>
@@ -315,9 +318,6 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/med/versions">
       <img src="https://repology.org/badge/vertical-allrepos/med.svg?header=med" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/python/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python.svg?header=python" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/boost/versions">
       <img src="https://repology.org/badge/vertical-allrepos/boost.svg?header=boost" alt="Packaging status" align="right"></a>
