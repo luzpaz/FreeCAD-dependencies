@@ -99,7 +99,7 @@ Right now this page just lists what dependencies are available in the Macport po
   </tr>
   <tr>
     <td><b>calculix</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions"><img src="https://repology.org/badge/version-for-repo/macports/calculix.svg?header=macports calculix" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix-ccx/versions"><img src="https://repology.org/badge/version-for-repo/macports/calculix-ccx.svg?header=macports calculix" alt="Packaging status"></a></td>
   </tr>
   <tr>
     <td><b>elmerfem</b></td>

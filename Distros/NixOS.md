@@ -122,8 +122,8 @@ Right now this page just lists what dependencies are available in the Nixpkgs pa
   </tr>
   <tr>
     <td><b>calculix</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions"><img src="https://repology.org/badge/version-for-repo/nix_stable/calculix.svg?header=nix_stable calculix" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions"><img src="https://repology.org/badge/version-for-repo/nix_unstable/calculix.svg?header=nix_unstable calculix" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix-ccx/versions"><img src="https://repology.org/badge/version-for-repo/nix_stable/calculix-ccx.svg?header=nix_stable calculix" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix-ccx/versions"><img src="https://repology.org/badge/version-for-repo/nix_unstable/calculix-ccx.svg?header=nix_unstable calculix" alt="Packaging status"></a></td>
   </tr>
   <tr>
     <td><b>elmerfem</b></td>

@@ -111,8 +111,8 @@
   </tr>
   <tr>
     <td><b>calculix</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions"><img src="https://repology.org/badge/version-for-repo/mageia_7/calculix.svg?header=mageia_7 calculix" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions"><img src="https://repology.org/badge/version-for-repo/mageia_cauldron/calculix.svg?header=mageia_cauldron calculix" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix-ccx/versions"><img src="https://repology.org/badge/version-for-repo/mageia_7/calculix-ccx.svg?header=mageia_7 calculix" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix-ccx/versions"><img src="https://repology.org/badge/version-for-repo/mageia_cauldron/calculix-ccx.svg?header=mageia_cauldron calculix" alt="Packaging status"></a></td>
   </tr>
   <tr>
     <td><b>elmerfem</b></td>

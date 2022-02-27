@@ -174,10 +174,10 @@ The Arch AUR repo was also added in order to illustrate that packages not availa
   </tr>
   <tr>
     <td><b>calculix</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_stable/calculix.svg?header=manjaro_stable calculix" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_testing/calculix.svg?header=manjaro_testing calculix" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_unstable/calculix.svg?header=manjaro_unstable calculix" alt="Packaging status"></a></td>
-    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions"><img src="https://repology.org/badge/version-for-repo/aur/calculix.svg?header=aur calculix" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix-ccx/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_stable/calculix-ccx.svg?header=manjaro_stable calculix" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix-ccx/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_testing/calculix-ccx.svg?header=manjaro_testing calculix" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix-ccx/versions"><img src="https://repology.org/badge/version-for-repo/manjaro_unstable/calculix-ccx.svg?header=manjaro_unstable calculix" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix-ccx/versions"><img src="https://repology.org/badge/version-for-repo/aur/calculix-ccx.svg?header=aur calculix" alt="Packaging status"></a></td>
   </tr>
   <tr>
     <td><b>elmerfem</b></td>

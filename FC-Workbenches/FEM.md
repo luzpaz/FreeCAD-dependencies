@@ -8,8 +8,8 @@ Below is a list of badges that the FEM Workbench does or perhaps will utilize:
     <th>paraview</th>
   </tr>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/calculix.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix-ccx/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/calculix-ccx.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/gmsh/versions">
       <img src="https://repology.org/badge/vertical-allrepos/gmsh.svg" alt="Packaging status" align="right"></a>

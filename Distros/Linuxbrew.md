@@ -94,7 +94,7 @@ Right now this page just lists what dependencies are available in the Linuxbrew 
   </tr>
   <tr>
     <td><b>calculix</b></td>
-    <td valign="top"><a href="https://repology.org/metapackage/calculix/versions"><img src="https://repology.org/badge/version-for-repo/linuxbrew/calculix.svg?header=linuxbrew calculix" alt="Packaging status"></a></td>
+    <td valign="top"><a href="https://repology.org/metapackage/calculix-ccx/versions"><img src="https://repology.org/badge/version-for-repo/linuxbrew/calculix-ccx.svg?header=linuxbrew calculix" alt="Packaging status"></a></td>
   </tr>
   <tr>
     <td><b>elmerfem</b></td>
