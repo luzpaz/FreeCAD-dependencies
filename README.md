@@ -142,7 +142,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/freecad/versions">
-        <img src="https://repology.org/badge/vertical-allrepos/freecad.svg" alt="Packaging status" align="right"></a>
+        <img src="https://repology.org/badge/vertical-allrepos/freecad.svg?columns=2" alt="Packaging status" align="right"></a>
     </td>
     <td align="left" valign="top">
       cmake<br/>
