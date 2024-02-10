@@ -152,7 +152,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       python:pyside2<br/>
       opencascade-occt<br/>
       smesh<br/>
-      med<br/>
+      med-data-exchange-format<br/>
       coin3d<br/>
       simage<br/>
       boost<br/>
@@ -223,7 +223,7 @@ python:shiboken2
 python:pyside2  
 opencascade-occt  
 smesh  
-med  
+med-data-exchange-format  
 coin3d  
 simage  
 boost  
@@ -316,8 +316,8 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
 
 <table>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/med/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/med.svg?header=med" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/med-data-exchange-format/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/med-data-exchange-format.svg?header=med" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/boost/versions">
       <img src="https://repology.org/badge/vertical-allrepos/boost.svg?header=boost" alt="Packaging status" align="right"></a>
