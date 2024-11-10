@@ -149,7 +149,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
       python<br/>
       qt<br/>
       shiboken6<br/>
-      python:pyside2<br/>
+      pyside6<br/>
       opencascade-occt<br/>
       smesh<br/>
       med-data-exchange-format<br/>
@@ -220,7 +220,7 @@ Open an issue on their [Github repo](https://github.com/fd00/yacp)
 python  
 qt  
 shiboken6  
-python:pyside2  
+pyside6  
 opencascade-occt  
 smesh  
 med-data-exchange-format  
@@ -294,8 +294,8 @@ Below are badges generated courtesy of Repology of all 3rd party dependencies th
     <td valign="top"><a href="https://repology.org/metapackage/shiboken6/versions">
       <img src="https://repology.org/badge/vertical-allrepos/shiboken6.svg?header=shiboken6" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/python:pyside2/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/python:pyside2.svg?header=python%3Apyside2" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/pyside6/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/pyside6.svg?header=pyside6" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
